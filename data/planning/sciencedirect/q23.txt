@@ -1,0 +1,805 @@
+Teruhisa Kumano, Masaki Horita, Masahiro Shinada, Xiaoyang Li,
+A Study on V2G Based Frequency Control in Power Grid with Renewable Energy,
+IFAC-PapersOnLine,
+Volume 52, Issue 4,
+2019,
+Pages 99-104,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2019.08.162.
+(https://www.sciencedirect.com/science/article/pii/S2405896319304987)
+Abstract: Although renewable energy based power generation is the most promising and sophisticated solution to the future society owing to its small amount of emission of the greenhouse effect gas, it has a great disadvantage of varied output. For instance, the large amount of existing PVs already gives a serious destabilizing effect on the western Japanese power systems. It is of great concern how future power grid can be operated securely when great amount of renewable based power plants are installed. One of the promising countermeasures against this problem is the utilization of battery energy storage, where its highly costly impact, which comes from the necessary battery storage installation, can be mitigated if the electric vehicles are used for this stabilizing control. This paper proposes a new method for the above stated technical challenge. So called Euler equation in the field of calculus of variation is solved numerically satisfying equality and inequality constraints based on the assumed scenario of usable electric vehicles, providing the most desirable charge/ discharge plan. Numerical study is done to confirm the fundamental feasibility of the proposed method. This method is a great candidate to be applied to general cases of many realistic constraints.
+Keywords: computational analysis; dynamics; control; renewable energy system; power grid
+
+Tao Hai, Jincheng Zhou, Mehrdad khaki,
+Optimal planning and design of integrated energy systems in a microgrid incorporating electric vehicles and fuel cell system,
+Journal of Power Sources,
+Volume 561,
+2023,
+232694,
+ISSN 0378-7753,
+https://doi.org/10.1016/j.jpowsour.2023.232694.
+(https://www.sciencedirect.com/science/article/pii/S0378775323000691)
+Abstract: In recent decades, as a result of diminishing fossil fuel reserves and rising social concern, electric power systems as one of the largest sectors for environmental emissions, have had no choice but to search for alternatives to alleviate the environmental problems due to conventional generation system. Plug-in electric vehicles (PEVs) can cause difficulties in the electrical grid and system operation. To circumvent this issue, an efficacious stochastic optimization model is developed in this paper to enable the control entity to manage generation and storage assets by controlling the charging behavior of PEVs. To achieve the lowest total cost, a new strategy for reducing reliability costs is proposed. In this regard, vehicle-to-grid (V2G) tool is used to reduce the overall system cost. The presented energy management model for the MG in the grid-connected mode takes into consideration the uncertainty of output power of the wind turbine (WT) and the photovoltaic (PV), as well as the PEVs’ charging and discharging. In this study, an innovative and effective optimization algorithm known as the modified fluid search optimization algorithm (MFSO) is utilized to optimize the MG operation problem. The results show that the suggested model incorporating electric vehicles (EVs) can enable MG operation at the minimum cost and reliability. As can be observed, the amount of time required by the presented method to solve the first case problem is 6.64s, which is significantly less than the amount of time required by the other methods. In a similar vein, the MFSO method is noticeably quicker than both GA and PSO when applied to case studies 2 and 3.
+Keywords: Fuel cell; MG model; Electric vehicle; Energy systems; Optimal planning
+
+A. Falkoni, G. Krajačić, marko M Mimica,
+Model of a 100 % renewable energy system of self-sufficient wider urban area based on a short-term scale and the integration of the transport and thermal sector,
+Energy,
+Volume 305,
+2024,
+132314,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2024.132314.
+(https://www.sciencedirect.com/science/article/pii/S0360544224020887)
+Abstract: The mutual integration of different energy sectors and their conversion to electricity could promote the integration of renewable energy sources. This paper analyses 100 % renewable electrical power system of the Dubrovnik wider urban area. The Calliope energy system model was developed and compared based on 10-min and hourly data. The energy scenario is modelled up to the year 2050. It includes the replacement of all conventional passenger vehicles with electric vehicles. The vehicle-to-grid model was developed using the Calliope modelling tool. All fossil fuels used in the heating sector are replaced by seawater heat pump systems. Additional storage is added to the system and the system is connected to the adjacent electricity market. The 10-min model led to a reduction in cross-border transmission capacity of around 60 % and a 7-fold reduction in the difference between import and export compared to the hourly model. This led to a more stable system operation, as the import and export capacities were equalised. The vehicle-to-grid technology in the regulated system led to a reduction in import and export transmission capacities of up to 17 % and 42 % respectively compared to the unregulated system, including extremely fast charging and discharging in a short-term step model.
+Keywords: Energy planning tools; Renewable energy sources; Electric vehicles; Vehicle-to-grid; Seawater heat pumps; Energy storage; Short-term step model
+
+Jie Yan, Jing Zhang, Yongqian Liu, Guoliang Lv, Shuang Han, Ian Emmanuel Gonzalez Alfonzo,
+EV charging load simulation and forecasting considering traffic jam and weather to support the integration of renewables and EVs,
+Renewable Energy,
+Volume 159,
+2020,
+Pages 623-641,
+ISSN 0960-1481,
+https://doi.org/10.1016/j.renene.2020.03.175.
+(https://www.sciencedirect.com/science/article/pii/S0960148120305085)
+Abstract: With the rapid development of electric vehicles (EVs), EV charging load simulation is of significance to tackle the challenges for planning and operating a highly-penetrated power system. However, the lack of historical charging data, as well as consideration on the temperature and traffic, pose obstacles to establish an accurate model. This paper presents a spatial-temporal EV charging load profile simulation method considering weather and traffics. First, the impacts of temperature on battery capacity and air-conditioning power are formulated. Second, the energy consumed by air conditioning and car-driving under various traffic conditions is formulated after defining two traffic-related indices. Third, the refined probabilistic models regarding the spatial-temporal vehicle travel pattern are established to improve accuracy. Daily charging load profiles at multiple regions are generated with inputs of refined models and formulations based on Monte Carlo. The real-world data are used to validate the proposed model under various scenarios. The results show that the magnitude, profile shape and peak time of the charging loads have significant differences in different seasons, traffics, day type and regions. Optimal planning of the distributed wind and solar capacities is made to improve the renewable power supply to the EV charging based on the simulated regional profiles.
+Keywords: Electric vehicle; Charging load profile; Spatial-temporal simulation; Traffic condition; Renewable planning; Temperature and air conditioning
+
+Jacques Després, Silvana Mima, Alban Kitous, Patrick Criqui, Nouredine Hadjsaid, Isabelle Noirot,
+Storage as a flexibility option in power systems with high shares of variable renewable energy sources: a POLES-based analysis,
+Energy Economics,
+Volume 64,
+2017,
+Pages 638-650,
+ISSN 0140-9883,
+https://doi.org/10.1016/j.eneco.2016.03.006.
+(https://www.sciencedirect.com/science/article/pii/S0140988316300445)
+Abstract: In this paper, we demonstrate the role of electricity storage for the integration of high shares of variable renewable energy sources (VRES) in the long-term evolution of the power system. For this, a new electricity module is developed in POLES (Prospective Outlook on Long-term Energy Systems). It now takes into account the impacts of VRES on the European power system. The power system operation relies on EUCAD (European Unit Commitment and Dispatch), which includes daily storage and other inter-temporal constraints. The innovative aspect of our work is the direct coupling between POLES and EUCAD, thus combining a long-term simulation horizon and a short-term approach for the power system operation. The storage technologies represented are pumped-hydro storage, lithium-ion batteries, adiabatic compressed air energy storage (a-CAES) and electric vehicles (charging optimisation and vehicle-to-grid). Demand response and European grid interconnections are also represented in order to include, to some extent, these flexibility options.
+Keywords: Electricity storage; Long-term modelling; Power system dispatch; Variable renewable energy sources; Flexibility
+
+Madeleine McPherson, Malik Ismail, Daniel Hoornweg, Murray Metcalfe,
+Planning for variable renewable energy and electric vehicle integration under varying degrees of decentralization: A case study in Lusaka, Zambia,
+Energy,
+Volume 151,
+2018,
+Pages 332-346,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2018.03.073.
+(https://www.sciencedirect.com/science/article/pii/S0360544218304821)
+Abstract: High urbanization rates, decentralized solar photovoltaic growth, and transportation electrification are changing the electricity planning landscape across Sub-Saharan Africa. This paper explores the operational implications of variable renewable energy and electric vehicle integration at the city scale. A production cost dispatch model is applied to Lusaka, Zambia's capital, whose largely hydro-based electricity system is currently facing shortfalls due to population and economic growth and climate change. The results demonstrate that variable renewable energy penetration and decentralization are important levers for managing greenhouse gas emissions, while the choice of electric vehicle charging policy has significant cost implications. Due to Zambia's flexible hydro assets and potential pumped hydro storage capacity, large penetrations of centralized solar photovoltaic energy can be integrated with low curtailment rates, regardless of electric vehicle charging policy. The high curtailment rates (>10%) and increased greenhouse gas emissions associated with non-export solar PV penetrations greater than 35% can be mitigated with flexible loads, such as electric vehicle charging, that is strategically shifted to coincide with high-resource periods of the day. Without active electric vehicle charging management, large peaking capacity is required to satisfy demand spikes. Conversely, system-optimized vehicle-to-grid charging eliminates the need for additional storage infrastructure thereby mitigating system costs.
+Keywords: Variable renewable energy integration; Electric vehicle integration; Production cost modeling; Soft-linking energy models
+
+Mohammad Alizadeh, Meysam Jafari-Nokandi,
+A bi-level resilience-oriented islanding framework for an active distribution network incorporating electric vehicles parking lots,
+Electric Power Systems Research,
+Volume 218,
+2023,
+109233,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2023.109233.
+(https://www.sciencedirect.com/science/article/pii/S0378779623001220)
+Abstract: Due to the increase in natural disasters, islanding and reconfiguring plans are used to enhance the resiliency of distribution networks (DN). Due to the increase in Plug-in Electric Vehicle (PEV) penetration, the power system's resilience can be increased by scheduling PEV charging and discharging in electrified Parking Lots (PLs); So this paper presents a bi-level optimization model that considers the electrical and transportation networks simultaneously. The Upper-Level (UL) problem specifies the optimal DN islanding plan to maximize the amount of load restored utilizing the optimal charge/discharge management of PEVs in PLs. The closest energized PL to the de-energized destination PLs and the number of PEVs in energized PLs are specified in the Lower-Level (LL) problem. The proposed bi-level framework is converted into a single-level model utilizing the Karush-Kuhn-Tucker optimality constraints due to the linearity of the LL problem. The efficiency of the proposed framework is verified using GAMS software applying the IEEE-33 bus distribution system, and the 25-node traffic network. Analysis of the simulation results shows that the optimal islanding decision considering the PEV drivers' willingness to stop in energized PLs and optimal charge and discharge management of these PEVs enhances the resilience of the DN.
+Keywords: Electric vehicle parking lot; Islanding; Mathematical program with equilibrium constraints; Resiliency; Reconfiguration
+
+Ziqi Wang, Sizu Hou, Wei Guo,
+Inventory management of battery swapping and charging stations considering uncertainty,
+International Journal of Electrical Power & Energy Systems,
+Volume 155, Part A,
+2024,
+109528,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2023.109528.
+(https://www.sciencedirect.com/science/article/pii/S0142061523005859)
+Abstract: The battery swapping mode of electric vehicles (EVs) is expected to play an essential role in transportation and power systems. Plenty of batteries are managed by the battery swapping and charging stations (BSCSs) as the core assets. Proper inventory scale and charging/discharging control of batteries are essential to the planning and operation of BSCSs. This paper addresses two critical aspects of BSCS batteries: the optimal amount of inventory batteries and the tradeoff between the initial number of depleted and fully-charged batteries at the beginning of each scheduling horizon. Aiming at these, the time coupling between initial inventory, charging/discharging strategy, and swapping time sequence is analyzed. Afterward, it establishes the initial inventory based charging/discharging (IIC) model. The uncertain swapping demand is fully considered by utilizing a data-driven distributionally robust optimization (DRO) approach with an improved K-means clustering algorithm. A duality-free column-and-constraint generation (C&CG) algorithm solves the problem iteratively. The simulation results demonstrate the validity of the IIC model and show that the obtained optimization results achieve the balance of economy and robustness. Moreover, the impact of battery technology development on inventory batteries is analyzed, and suggestions are given.
+Keywords: Battery swapping; Distributionally robust optimization; Electric vehicle; Initial inventory; Inventory battery
+
+S. Seyyedeh Barhagh, B. Mohammadi-Ivatloo, A. Anvari-Moghaddam, S. Asadi,
+Risk-involved participation of electric vehicle aggregator in energy markets with robust decision-making approach,
+Journal of Cleaner Production,
+Volume 239,
+2019,
+118076,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2019.118076.
+(https://www.sciencedirect.com/science/article/pii/S0959652619329464)
+Abstract: Uncertainty of different parameters in power systems can put market players at risk. For example, uncertainty of market prices in energy markets with capitalist characteristics can negatively affect decisions of aggregators participating in such markets to make profits. In fact, uncertainty in capitalist energy markets should be controlled since many individuals who participate in such markets have specific expectations (economic goals in most cases) and this may result in some concerns over the future performances of mentioned markets under uncertainty. It should be noted that aggregator can be a person or an authority who is responsible for a group of energy consumers/resources like electric vehicles (EVs) and seeks to participate in energy markets in order to get to some expected goals that can be economical, technical and etc. Moreover, attitude to risk of a decision-maker can change in different working conditions which needs to be considered through various decision-making criteria. In this paper, robust performance (optimal/stable operation against the worst possible condition of uncertainty) of an EV aggregator against the uncertainty of market price is studied by incorporating robust optimization method. The aggregator willing to participate in energy market can benefit from the provided strategies created by this optimization model to satisfy the expected economic goals and control the uncertainty of energy market. In detail, specific plans and strategies are determined toward possible values of uncertain market price that satisfy economic goals of aggregator and keep the uncertainty under control. Mixed integer non-linear programming (MINLP) is used to model the problem which is solved in general algebraic modeling system (GAMS) software. A microgrid system composed of distributed generation units (local generation units that can be either renewable or non-renewable) including dispatchable and non-dispatchable ones, EVs and storage system is studied, and the results are presented. The results show that robust optimization model can minimize the daily market cost while mitigating possible risks for the aggregator of EVs. It should be noted that daily market accounts for energy market in which various energy resources are available to be selected by the related aggregator in order to supply energy demand.
+Keywords: Electric vehicles; Aggregator; Uncertainty management; Robust optimization model
+
+Ali Ahmadian, Mahdi Sedghi, Hedia Fgaier, Behnam Mohammadi-ivatloo, Masoud Aliakbar Golkar, Ali Elkamel,
+PEVs data mining based on factor analysis method for energy storage and DG planning in active distribution network: Introducing S2S effect,
+Energy,
+Volume 175,
+2019,
+Pages 265-277,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2019.03.097.
+(https://www.sciencedirect.com/science/article/pii/S0360544219305018)
+Abstract: The load demand modeling of Plug-in Electric Vehicles (PEVs) has been taken more attention in today's power system studies. Big-data should be handled for accurate modeling of PEVs load demand. Therefore, the utilization of data mining tools will be helpful for PEVs data analytics and clustering. In this paper, a Factor Analysis (FA) based method is introduced for the PEVs data mining. The load profiles of PEVs that are extracted by Monte Carlo Simulation (MCS) are clustered in some groups optimally using FA method. The clustered data is applied on Energy Storage Systems (ESSs) and Distributed Generation (DGs) planning procedure, separately. The simulation results show the power demand of PEVs effect on both ESSs and DGs planning, however, the temporal feature of PEVs profiles affects only on ESS planning, but not considerably on DG planning. This temporal feature, here called Storage to Storage (S2S) effect, reflects the nature of PEVs and ESS long-term memory which is discussed in this paper. The simulation results show that the optimal ESSs capacity is reduced if the PEVs data are clustered especially in high PEVs penetration. However, the optimal capacities of DGs is the same with and without PEVs data clustering scenarios.
+Keywords: Plug-in electric vehicles; Energy storage systems; Factor analysis; Distributed generation; Data mining
+
+Manuel Sánchez Diéguez, Amirhossein Fattahi, Jos Sijm, Germán Morales España, André Faaij,
+Modelling of decarbonisation transition in national integrated energy system with hourly operational resolution,
+Advances in Applied Energy,
+Volume 3,
+2021,
+100043,
+ISSN 2666-7924,
+https://doi.org/10.1016/j.adapen.2021.100043.
+(https://www.sciencedirect.com/science/article/pii/S2666792421000354)
+Abstract: In this paper, we present an optimisation integrated energy system model (IESA-Opt) for the Netherlands with the use of a linear programming formulation. This state-of-the-art model represents a scientific contribution as it integrates a European power-system model with a complete sectoral representation of the energy system technologies and infrastructure that account for all greenhouse gas emissions considered in the targets, and takes into consideration a detailed description of the cross-sectoral flexibility (e.g. flexible heat and power cogeneration, demand shedding from power-to-X and electrified industrial processes, short- and long-term storage of diverse energy carriers, smart charging and vehicle-to-grid for electric vehicles, and passive storage of ambience heat for the built environment). This model provides a detailed description of the operation of technologies and considers exogenous technological learning to simultaneously solve multi-year planning of investments, retrofitting, and economical decommissioning with intra-year operational, flexible, and despatch decisions. The model is applied to a case study of the Netherlands energy transition under the current climate policy and conservative projections for the economy and availability of resources. The results present a significant reliance on renewable energy sources, such as wind (800 PJ) and solar (300 PJ), to fuel the electrification revolution as well as biomass (550 PJ) for feedstock and heat purposes coupled with carbon capture, utilisation, and storage (CCUS) to achieve negative emissions in certain sectors. However, oil (880 PJ) and gas (1050 PJ) constitute almost half of the final energy demand as they are required for heat applications, industrial feedstock, refined oil products for export, and international transport fuel. Four different sensitivity analyses are presented for the emission reduction target, oil demand streams, biomass availability, and demand volumes. The most significant findings are as follows: 1) it is crucial to have simultaneous highly available biomass and CCUS storage capacities to achieve negative emissions and facilitate the transition; 2) even in a highly decarbonised scenario, it is necessary to simultaneously develop climate policies focused on international transport emissions, oil-based feedstock, and refined-oil product exports to completely displace oil from the energy mix; 3) (imported) biomass has the ability to decrease system costs (3% under conservative scenarios of availability and price); however, for biomass prices higher than 20 €/GJ, this effect is lower; 4) in relative terms, the system is most sensitive to demand uncertainties from the transport sector than any other sector, followed closely by the industrial sector.
+Keywords: Integrated energy system model; Netherlands energy transition; Bottom up technological representation of sectors and technologies; High variable renewable energy scenarios; Cross-sectoral flexibility
+
+Marcos Tostado-Véliz, Ahmad Rezaee Jordehi, Yuekuan Zhou, Seyed Amir Mansouri, Francisco Jurado,
+Best-case-aware planning of photovoltaic-battery systems for multi-mode charging stations,
+Renewable Energy,
+Volume 225,
+2024,
+120300,
+ISSN 0960-1481,
+https://doi.org/10.1016/j.renene.2024.120300.
+(https://www.sciencedirect.com/science/article/pii/S0960148124003653)
+Abstract: The proliferation of charging stations entails multiple challenges for power systems. In this regard, the installation of photovoltaic-battery systems may help to mitigate the negative effects of charging points. However, such assets should be carefully planned, paying attention to economic aspects, principally. Most of existing works optimize the photovoltaic-battery system in charging infrastructures taking a representative-space of the involved variables (e.g. photovoltaic potential, charging demand or energy prices). However, this approach tends to ignore low-probable scenarios. Thus, the best-case scenario for charging demand (i.e. that for which the highest charging profit is accessible) may not be included in the analysis and therefore such demand could be not attended properly, thus losing this monetary opportunity. This paper focuses on this issue and questions if considering the best-case scenario into planning photovoltaic-battery systems for charging stations is worthwhile or not. To this end, a novel best-case-aware planning tool is developed, including the best-case scenario through a novel chance-constrained formulation. The overall problem is then decomposed into a master-slave structure by which the economy of the system is optimized together with the number of scenarios for which the best-case profile can be attended. A case study serves to validate the developed tool and shed light on the questions arisen in this work. In particular, it is checked that considering the best-case scenario into planning tools is questionable from a monetary point of view. Nevertheless, its inclusion unlocks some collateral advantages such as incrementing the users’ satisfaction or reducing the grid-dependency.
+Keywords: Battery energy storage; Chance-constrained programming; Electric vehicle; Photovoltaic energy; Renewable energy
+
+Aggelos S. Bouhouras, Nikolaos S. Kelepouris, Nikolaos Koltsaklis, Konstantinos Oureilidis, Georgios C. Christoforidis,
+Congestion Management in coupled TSO and DSO networks,
+Electric Power Systems Research,
+Volume 229,
+2024,
+110145,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2024.110145.
+(https://www.sciencedirect.com/science/article/pii/S0378779624000348)
+Abstract: This paper proposes a three-stage coordination methodology to optimally manage congestion in day-ahead operation planning for Transmission Systems (TS) and Distribution Systems (DSs). The first stage provides the day-ahead model (DAM) results for the power units in the TS, and Energy Storage Systems (ESSs) and Electric Vehicles (EVs) in the DSs. The second stage applies the DAM results to the modelled TS to reveal any congestion issues. If congestion is depicted the need for congestion management (CM) by the Transmission System Operator (TSO) arises. Thus, the TSO performs an AC Optimal Power Flow (OPF) analysis, under power loss minimization, to provide the redispatch schedule in the TS and quantify the power transactions between TSO and the Distribution System Operators (DSOs). Finally, the DSOs examine if they can deliver these power transactions without congestion in their DSs, by applying AC OPF to minimize power losses. If this is not possible, then a relaxation scheme is applied to these power transactions in order to define the maximum DSO flexibility without congestion in the DS. The proposed methodology is applied to the simulated Greek TS and the results indicate that it can optimally redispatch the available assets with a coordinated interaction between TSO-DSO(s).
+Keywords: Congestion management; Day-ahead model; Power loss minimization; Redispatch
+
+Hengrong Zhang, Jing Qiu, Yunqi Wang,
+Planning strategy of fast-charging stations in coupled transportation and distribution systems considering human health impact,
+International Journal of Electrical Power & Energy Systems,
+Volume 133,
+2021,
+107316,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2021.107316.
+(https://www.sciencedirect.com/science/article/pii/S014206152100555X)
+Abstract: The proliferation of the electric vehicles field brings attention to fast-charging station planning. Recently, some studies found electric vehicles that receive fast-charging service may also bring much air pollution due to fossil-fuel fired power generation. Hence, depending on the power generation mix, electric vehicles may have adverse environmental impacts. The current studies of fast-charging station planning only focus on power system planning and often ignore other parts of the transportation system such as internal combustion engine vehicles and gasoline stations. Moreover, most the current studies lack a comprehensive planning strategy for the fast-charging station that involves elements above simultaneously. In this context, an interdisciplinary study is implemented on the coordinated planning strategy of the fast-charging station in coupled transportation and power distribution systems. The proposed strategy with a multiple objective integer model can measure the impact of air pollutions from electric vehicles on air quality and human health in different areas. Considering the traffic flow assignment, the driving range logic constraints are used. The branch flow model is applied to power distribution systems. To measure the impacts of air pollutions on air quality and human health, the air pollution from the Road traffic model, the Gaussian Plum Model and the C-R function are adopted. Finally, numerical experiments are conducted to verify the proposed strategy and the mathematical model. The fast-charging station location and size can be determined by the mathematical model. The transition of gasoline station to fast-charging station is suggested according to the model as well.
+Keywords: Fast-charging station; Gasoline station transition; Multi-objective coordinated planning; Human health impact
+
+Rafael S. Salles, Rebecca Asplund, Sarah K. Rönnberg,
+Mapping and assessment of harmonic voltage levels for railway traction supply stations in Sweden,
+Electric Power Systems Research,
+Volume 239,
+2025,
+111195,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2024.111195.
+(https://www.sciencedirect.com/science/article/pii/S0378779624010812)
+Abstract: Assessing harmonic distortion measurements in the electric railway power systems (ERPS) requires evaluating the time-varying behavior, interactions, and performance in different time scales. This paper aims to map and assess harmonic voltage levels in 13 traction converter stations for the Swedish railway power supply system, with findings that have direct practical implications. For that, measurements from the public and railway grid sides for 69 weeks are analyzed. Statistical values are explored for the harmonic voltage spectra and total harmonic distortion (THD) variation. The public grid side measurements are investigated using 95th percentile weekly values, and performance is evaluated by comparing the recommended planning levels of IEC 61,000–3–6. The intraweek variation complements the information about the time-varying behavior of the THD. The 95th percentile, minimum daily values, and intraday variation are explored to understand the time-based behavior since there are no reference limits from standards for comparison, looking to the railway grid side. Extended analysis is placed on the railway grid side to highlight some aspects of measurement time-aggregation based on 10-min values, and time-series trend analysis is used to confirm traffic planning impact. Discussion and findings regarding railway operation, the technology deployed at the traction converter station, time-varying behavior, traffic planning impact, measurement time-aggregation, and spectra patterns were presented.
+Keywords: Frequency converter station; Railway systems; Power quality; Harmonics; Traction power supply; Waveform distortion
+
+Weiqi Hua, Bruce Stephen, David C.H. Wallom,
+Digital twin based reinforcement learning for extracting network structures and load patterns in planning and operation of distribution systems,
+Applied Energy,
+Volume 342,
+2023,
+121128,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2023.121128.
+(https://www.sciencedirect.com/science/article/pii/S0306261923004920)
+Abstract: Low voltage distribution networks deliver power to the last mile of the network, but are often legacy assets from a time when low carbon technologies, e.g., electrified heat, storage, and electric vehicles, were not envisaged. Furthermore, exploiting emerging data from distribution networks to provide decision support for adapting planning and operational strategies with system transitions presents a challenge. To overcome these challenges, this paper proposes a novel application of digital twins based reinforcement learning to improve decision making by a distribution system operator, with key metrics of predictability, responsiveness, interoperability, and automation. The power system states, i.e., network configurations, technological combinations, and load patterns, are captured via a convolutional neural network, chosen for its pattern recognition capability with high-dimensional inputs. The convolutional neural networks are iteratively trained through the fitted Q-iteration algorithm, as a batch mode reinforcement learning, to adapt the planning and operational decisions with the dynamic system transitions. Case studies demonstrate the effectiveness of the proposed model by reducing 50% of the investment cost when the system transitions towards the winter and maintaining the power loss and loss of load within 5% compared to the benchmark optimisation. Doubled power consumption was observed in winter under future energy scenarios due to the electrification of heat. The trained model can accurately adapt optimal decisions according to the system changes while reducing the computational time of solving optimisation problems, for a range of scales of distribution systems, demonstrating its potential for scalable deployment by a system operator.
+Keywords: Digital twin; Distribution network; Fitted Q-iteration; Load pattern; Network configuration; Reinforcement learning
+
+Sang-Keun Moon, Jin-O Kim,
+Balanced charging strategies for electric vehicles on power systems,
+Applied Energy,
+Volume 189,
+2017,
+Pages 44-54,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2016.12.025.
+(https://www.sciencedirect.com/science/article/pii/S0306261916317895)
+Abstract: This paper presents an electric vehicle charging demand management method by modeling the demand dispatch calculation. Despite the demand shift owing to the price signal, the signal is occasionally inaccurate because of the load variability. The electricity rate has features that can shift the electric vehicle charging priorities; the application of the load fluctuation criterion is sufficient for the management plan. We expect that there is a point, wherein, both the electric vehicle users (saving costs) and the system operators (relieving loads) are satisfied with the mutually beneficial arrangements. Our method determines the balanced state in which the loads and costs are considered simultaneously with the proposing criteria. The method allows the discordance between the electrical prices and the system load fluctuations to be managed, while the time-of-use pricing and load deviation indices are accounted for. We focus on the gap corresponding to the load variation and the charging price in a daily scheme. In contrast to the typical valley filling strategies, the aim of this study is to determine and solve the mismatches in the different goals of the costs and loads, if the state is not mutually beneficial. Therefore, to ensure a system operator perspective selectively, we introduce the load weight and ranking method concepts for dispersing the charging loads, lowering the system marginal prices, and investment avoidance because electricity rates cannot describe the load curves accurately. The charging demand calculation is investigated based on the determination of the charging patterns and daily demands using the priority comparison method. The balancing strategy first fills the mutual benefit points with respect to the changing priorities and then, competes to find the balanced points. The significance of the method is that it is based on the unique relationship between two comprehensive competitive strategies. Thus, we determine that valley filling, flat load management, and regulated deviation are insufficient to describe the user and operator behaviors simultaneously.
+Keywords: Electric vehicles; Load management; Load leveling; Time-of-use pricing; Demand scheduling
+
+Olusola Bamisile, Akinola Babatunde, Humphrey Adun, Nasser Yimen, Mustapha Mukhtar, Qi Huang, Weihao Hu,
+Electrification and renewable energy nexus in developing countries; an overarching analysis of hydrogen production and electric vehicles integrality in renewable energy penetration,
+Energy Conversion and Management,
+Volume 236,
+2021,
+114023,
+ISSN 0196-8904,
+https://doi.org/10.1016/j.enconman.2021.114023.
+(https://www.sciencedirect.com/science/article/pii/S0196890421001990)
+Abstract: As the world continues to fight against climate change, renewables have emerged as an imminent solution, however, a model that can help (developing) countries to effectively migrate to a renewable energy-based power sector is limited in literature. In this study, a comprehensive electricity generation analysis based on an hourly time-step is done in a bid to solve to electrification crisis in developing countries. This study aims to present the feasible pathways with which sustainable electrification can be achieved. This is done by considering the financial feasibility, environmental sustainability, and technical viability of different technological combinations. In comparison to existing literature, this study is novel as the integration of both renewable energy sources and a fossil fuel source is analyzed. With Nigeria being the study area, the integration of five renewable energy-based technologies namely; offshore wind power plant, onshore wind power plant, solar photovoltaic system, concentrated solar power plant, and hydropower plant as well as pumped hydro storage system is considered within the scope of this study. Based on the results of the analysis, out of the ninety-nine different combinatory scenarios modeled, the most viable solution with the use of renewables and natural gas is the combination of natural gas power plants, on-shore wind power plants, and solar photovoltaic systems. This requires a large capacity installation (32,500 MW of natural gas power plant, 12,000 MW of solar photovoltaic plant, and 7000 MW of on-shore wind power plant) as well as a total annual cost and an investment cost of $ 22B and $ 48.7B. Furthermore, solving the poised problem based on renewable energy technologies will only require the combination of on-shore wind power plants, hydropower plants, solar photovoltaic system, and pumped hydro storage system. The integration of plug-in battery electric vehicles and hydrogen production will help maximize the electricity produced from the renewable energy-based power systems. This will also reduce the overall carbon emission from the country at large. Beyond providing feasible scenarios and plans to tackle the existing electricity production, guidelines on steps (not to take) to tackle the electrification problem are embedded in this study.
+Keywords: Electric vehicles; EnergyPLAN; Hydrogen production; Nigeria; Renewable energy penetration
+
+Qiang Li, Fanchao Wei, Yongcheng Zhou, Jiajia Li, Guowen Zhou, Zhonghao Wang, Jinfu Liu, Peigang Yan, Daren Yu,
+A scheduling framework for VPP considering multiple uncertainties and flexible resources,
+Energy,
+Volume 282,
+2023,
+128385,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2023.128385.
+(https://www.sciencedirect.com/science/article/pii/S0360544223017796)
+Abstract: This paper presents a two-stage scheduling framework for a virtual power plant (VPP) to address uncertainties in wind power plants (WPP), photovoltaic (PV), load, and price in the power system. The framework consists of a day-ahead (DA) scheduling stage and an intraday adjustment stage. The DA scheduling stage formulates the VPP's internal controllable resource scheduling strategy and the energy market's bidding plan. The intraday adjustment stage provides flexibility to adjust the scheduling strategy of controllable resources in the VPP to enhance power generation stability. To address profit distribution issues, the paper proposes a profit distribution strategy based on scheduling costs of each component unit of the VPP. The VPP considers various factors, such as battery capacity degradation, carbon credit trading, flexibility of electric vehicles (EVs), and novel demand response (DR) strategies. The case study demonstrates that accounting for battery capacity degradation reduces the utilization of energy storage systems (ESSs) and EVs, while considering controllable load and EVs increases the VPP's flexibility and decreases carbon emissions. Furthermore, the proposed two-stage scheduling strategy effectively handles multiple uncertainties. Finally, the implementation of new DR strategies leads to a reduction in cost by 6.83% (time-of-use) and 8.1% (real-time price) for the VPP.
+Keywords: Uncertainties; Profit distribution; Capacity degradation; Carbon credit; Controllable loads; EVs
+
+Bethany A. Frew, Sarah Becker, Michael J. Dvorak, Gorm B. Andresen, Mark Z. Jacobson,
+Flexibility mechanisms and pathways to a highly renewable US electricity future,
+Energy,
+Volume 101,
+2016,
+Pages 65-78,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2016.01.079.
+(https://www.sciencedirect.com/science/article/pii/S0360544216300032)
+Abstract: This study explores various scenarios and flexibility mechanisms to integrate high penetrations of renewable energy into the US (United States) power grid. A linear programming model – POWER (Power system Optimization With diverse Energy Resources) – is constructed and used to (1) quantify flexibility cost-benefits of geographic aggregation, renewable overgeneration, storage, and flexible electric vehicle charging, and (2) compare pathways to a fully renewable electricity system. Geographic aggregation provides the largest flexibility benefit with ∼5–50% cost savings, but each region's contribution to the aggregate RPS (renewable portfolio standard) target is disproportionate, suggesting the need for regional-and-resource-specific RPS targets. Electric vehicle charging yields a lower levelized system cost, revealing the benefits of demand-side flexibility. However, existing demand response price structures may need adjustment to encourage optimal flexible load in highly renewable systems. Two scenarios with RPS targets from 20% to 100% for the US (peak load ∼729 GW) and California (peak load ∼62 GW) find each RPS target feasible from a planning perspective, but with 2× the cost and 3× the overgeneration at a 100% versus 80% RPS target. Emission reduction cost savings for the aggregated US system with an 80% versus 20% RPS target are roughly $200 billion/year, outweighing the $80 billion/year cost for the same RPS range.
+Keywords: Renewable energy integration; Energy system analysis; Aggregation; Storage; Transmission; Electric vehicle charging
+
+Yue Zhang, Qi Zhang, Arash Farnoosh, Siyuan Chen, Yan Li,
+GIS-Based Multi-Objective Particle Swarm Optimization of charging stations for electric vehicles,
+Energy,
+Volume 169,
+2019,
+Pages 844-853,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2018.12.062.
+(https://www.sciencedirect.com/science/article/pii/S0360544218324289)
+Abstract: The rapid development of electric vehicles can greatly alleviate the environmental problems and energy tension. However, the lack of public supporting facilities has become the biggest problem hinders its development. How to reasonably plan the placement of charging stations to meet the needs of electric vehicles has become an urgent situation in China. Different from private charging piles, charging station could help to break the limitation of short range. It also has a special dual attribute of public service and high investment. Therefore, a mathematically optimal model with two objective functions is developed to analyze the relationship between upfront investments and operating costs and service coverage of charging station system and it was solved by Particle Swarm Optimization. Besides, we take into account the conveniences of stations for charging vehicles and their influences on the loads of the power grid. Geographic Information System is used to overlay the traffic system diagram on power system diagram to find the alternative construction sites. In this study, a district in Beijing is analyzed using the proposed method and model. And the following suggestions are given: government should lead the construction of charging station; service ability needs to be enhanced; it is better to make more investment at earlier stage; constructions of charging stations can facilitate EV's development.
+Keywords: Electric vehicle; Charging station; Multi-objective particle swarm optimization; GIS
+
+Siyang Sun, Qiang Yang, Jin Ma, Adrià Junyent Ferré, Wenjun Yan,
+Hierarchical planning of PEV charging facilities and DGs under transportation-power network couplings,
+Renewable Energy,
+Volume 150,
+2020,
+Pages 356-369,
+ISSN 0960-1481,
+https://doi.org/10.1016/j.renene.2019.12.097.
+(https://www.sciencedirect.com/science/article/pii/S096014811931969X)
+Abstract: The increasing penetration level of plug-in electric vehicles (PEVs), as well as distributed generators (DGs), imposes significant challenges on power system planning. This work presents a coordinated approach for the planning of PEV charging facilities and DGs, including both the locations and the capacities, with the consideration of the transportation - power network couplings. First, the PEV charging demand is characterized by a temporal-SoC (State of Charge) analysis, and the DG generation uncertainties are modeled by K-means clustering using historical data. The M/M/s/N queuing model is used to formulate the dynamics of charging stations and then obtain the optimal station capacity, including the number of chargers and waiting spaces. Furthermore, the placement of charging stations is optimized by the Floyd Algorithm to minimize the total distance to obtain charging service. Finally, the sitting and sizing of DGs are optimized over multiple objectives, including active power losses, reactive power losses, and voltage deviation. The solution is evaluated through a case study of the IEEE 53-bus test feeder coupled with a 25-node transportation network. It is shown that the proposed solution enables the active and reactive power losses as well as the voltage deviation to be reduced by 37.6%, 44.3%, and 33.6%, respectively, after the optimal integration of PEV charging stations and DGs. The scalability and effectiveness of the solution are further validated in an IEEE 123-bus test feeder coupled with the same transportation network, and the result confirms the effectiveness and scalability of the proposed solution.
+Keywords: Plug-in electric vehicle; Charging facility; Power distribution network; Distributed generator
+
+Xinyou Lin, Hao Huang, Liping Xie, Songchun Zou,
+Gradient-aware trade-off control strategy dynamic optimization for a fuel cell hybrid electric vehicle,
+International Journal of Hydrogen Energy,
+Volume 81,
+2024,
+Pages 1107-1120,
+ISSN 0360-3199,
+https://doi.org/10.1016/j.ijhydene.2024.07.250.
+(https://www.sciencedirect.com/science/article/pii/S0360319924029240)
+Abstract: Road gradients not only affect the actual performance of control strategies but also impact battery life due to the drastic changes in power demands. To balance battery degradation with fuel economy using gradient information, this study proposes a gradient-aware trade-off control strategy. Initially, a vehicle dynamics model and a battery degradation model are established. Based on the characteristics of known road information and remaining driving distance, state of charge planning of the battery is conducted. Subsequently, the Non-dominated Sorting Genetic Algorithm-II is applied for bi-objective optimization, yielding a set of Pareto solutions that represent different levels of energy consumption and battery degradation. Thereafter, by introducing a real-time battery degradation severity factor, an optimized bias coefficient is obtained, which adjusts in accordance with the gradient changes. Through the optimization of the bias line, the optimal bias solution set under different working conditions is determined, achieving the optimal control for power system. The fuel economy of the proposed strategy is improved by 6.8% relative to the mileage adaptive Equivalent Consumption Minimization Strategy, and the battery degradation inhibition is improved by 9.3%. After real-world conditions validation, the proposed strategy demonstrates good performance in both economic efficiency and battery life.
+Keywords: Fuel cell electric vehicle; Energy management strategy; NSGA-II algorithm; Gradient-aware dynamic optimization
+
+D. Viji, Sanjay Dhanka, Binda M.B., M. Thomas,
+Hybrid STO- IWGAN method based energy optimization in fuel cell electric vehicles,
+Energy Conversion and Management,
+Volume 305,
+2024,
+118249,
+ISSN 0196-8904,
+https://doi.org/10.1016/j.enconman.2024.118249.
+(https://www.sciencedirect.com/science/article/pii/S0196890424001900)
+Abstract: This paper introduces a novel hybrid approach, termed STO-IWGAN, aimed at enhancing energy optimization in fuel cell electric vehicles (FCEVs). The key to maintaining the system's normal operation is the energy management plan and hybrid system performance optimization. The STO-IWGAN method combines the Siberian Tiger Optimization (STO) and an enhanced Wasserstein Generative Adversarial Network (IWGAN). The primary objectives of this approach include improving energy efficiency, reducing fuel usage, and enhancing overall FCEV performance. The STO method is utilized to optimize the operating parameters of the fuel cell arrangement, while the IWGAN method predicts the vehicle's power demand. The proposed technique is implemented and evaluated using MATLAB, benchmarked against contemporary methods. Comparative analysis reveals that the STO-IWGAN method outperforms existing approaches such as heap-based optimization, particle swarm optimization, and wild horse optimization. This work aims to contribute to research on increasing the hybrid power system's energy utilization efficiency and fuel cell the lifespan, offer recommendations for optimal control strategy and structural design, and offer additional ideas for future energy management optimization. The efficiency value of the proposed method, recorded at 95 %, surpasses that of other existing techniques, indicating its superior performance in energy optimization for FCEVs. The Existing HBO method efficiency value is 85 %, PSO method efficiency value is 75 % and the WHO method efficiency value is 65 %. The proposed method efficiency value is higher than other existing method.
+Keywords: Battery; Electric Vehicle; Fuel cell; Energy Management; Energy Storage System (ESS); Hydrogen Tank; State of Charge (SoC)
+
+Varaprasad Janamala, D Sreenivasulu Reddy,
+Coyote optimization algorithm for optimal allocation of interline –Photovoltaic battery storage system in islanded electrical distribution network considering EV load penetration,
+Journal of Energy Storage,
+Volume 41,
+2021,
+102981,
+ISSN 2352-152X,
+https://doi.org/10.1016/j.est.2021.102981.
+(https://www.sciencedirect.com/science/article/pii/S2352152X21006952)
+Abstract: In current times, there is a need to do power system planning to endure situations of any kind. An islanding operation is one such unavoidable situation that may be required in many cases for both technical and economic reasons. First and foremost, this paper focuses on the determination of the best allotment of Interline-Photovoltaic (I-PV) system as per Electric Vehicle (EV) load penetration in the network. With different operational constraints, a multi-objective optimization using real power loss and voltage deviation index is formulated and solved using the Coyote Optimization Algorithm (COA).The paper highlights the computational efficiency of COA with Particle Swarm Optimization (PSO) and Grey Wolf Optimizer (GWO), in addition to various literary works, and the results suggest the superiority of COA by its global optima. The required battery energy storage system (BESS) capacity for supplying an islanded network's entire load demand for a day is determined in the second stage. The simulations were carried out on the IEEE 33-bus electrical distribution network (EDN) contemplating different levels of EV load penetration. The proposed methodology results have proved that the required energy is provided by optimal I-PV-BESS backup for a daylong islanding operation and its adaptability for practical situations.
+Keywords: Battery energy storage system; Coyote optimization algorithm; Electric vehicle load; Islanding operation; Multi-objective optimization; Solar photovoltaic system
+
+Vahid Vahidinasab, Saman Nikkhah, Adib Allahham, Damian Giaouris,
+Boosting integration capacity of electric vehicles: A robust security constrained decision making,
+International Journal of Electrical Power & Energy Systems,
+Volume 133,
+2021,
+107229,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2021.107229.
+(https://www.sciencedirect.com/science/article/pii/S0142061521004683)
+Abstract: Global electric vehicles (EVs) fleet is expanding at a rapid pace. Considering the uncertain driving pattern of EVs, they are dynamic consumers of electricity and their integration can give rise to operational problems and jeopardize the security of the power system. Under such circumstances, the implementation of demand-side response (DSR) programs is more likely to be an effective solution for reducing the risks of load curtailment or security problems. This study proposes a voltage stability constrained DSR-coordinated planning model for increasing the penetration level of EVs in a distribution system consisting of photovoltaics (PVs), wind turbines (WTs) and responsive loads. The uncertainties of PV/WT generation, the driving pattern of EVs, and load demand are modeled by an improved form of information gap decision theory (IGDT), hereafter called weighted IGDT (WIGDT). Due to the fact that the proposed model is nonlinear and non-convex, a linearization technique is adopted and the proposed model is formulated as a mixed-integer linear programming (MILP), solved using the general algebraic modeling system (GAMS) software. The standard 33-bus distribution test system and a real-world smart distribution network, based in the Isle of Wight in the UK, are used to evaluate the performance of the model.
+Keywords: Electric vehicles (EVs); Renewable energy resource (RES); Planning; Demand-side response (DSR); Uncertainty
+
+Xinyu Chen, Yaxing Liu, Qin Wang, Jiajun Lv, Jinyu Wen, Xia Chen, Chongqing Kang, Shijie Cheng, Michael B. McElroy,
+Pathway toward carbon-neutral electrical systems in China by mid-century with negative CO2 abatement costs informed by high-resolution modeling,
+Joule,
+Volume 5, Issue 10,
+2021,
+Pages 2715-2741,
+ISSN 2542-4351,
+https://doi.org/10.1016/j.joule.2021.10.006.
+(https://www.sciencedirect.com/science/article/pii/S2542435121004505)
+Abstract: Summary
+China, the largest global CO2 emitter, recently announced ambitious targets for carbon neutrality by 2060. Its technical and economic feasibility is unclear given severe renewable integration barriers. Here, we developed a cross-sector, high-resolution assessment model to quantify optimal energy structures on provincial bases for different years. Hourly power system simulations for all provinces for a full year are incorporated on the basis of comprehensive grid data to quantify the renewable balancing costs. Results indicate that the conventional strategy of employing local wind, solar, and storage to realize 80% renewable penetration by 2050 would incur a formidable decarbonization cost of $27/ton despite lower levelized costs for renewables. Coordinated deployment of renewables, ultra-high-voltage transmissions, storages, Power-to-gas and slow-charging electric vehicles can reduce this carbon abatement cost to as low as $−25/ton. Were remaining emissions removed by carbon capture and sequestration technologies, achieving carbon neutrality could be not only feasible but also cost-competitive post 2050.
+Keywords: carbon neutrality, decarbonization pathway, power system planning, flexibility, electric vehicles, power-to-gas, storage, transmission expansion
+
+V. Battaglia, N. Massarotti, L. Vanoli,
+Urban regeneration plans: Bridging the gap between planning and design energy districts,
+Energy,
+Volume 254, Part A,
+2022,
+124239,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2022.124239.
+(https://www.sciencedirect.com/science/article/pii/S0360544222011422)
+Abstract: District regeneration plans introduce demographic and land use changes that influence their energy balance, modifying electricity and heating/cooling demand. Traditional approaches see urban regeneration projects as independent processes with respect to the energy planning ones, ignoring the European Union targets to move towards the energy transition. Smart energy district approach allows to better solutions from the thermodynamic and economic point of view, and to integrate renewable energy sources, which by their nature are ‘fluctuating,’ with the energy demands using a data centre to menage the energy flows. To evaluate the benefits that a district could obtain when integrating energy planning in regeneration plans, the authors analyse the effects of a different approach to the urban design that goes beyond the traditional tasks of designing districts’ spatial aspects and propose a consistent technical analysis during the decision-making process. To do this, after defining strategic targets related to energy and resource issues, the authors implement different scenarios, evaluating the most suitable technologies that can be integrated in the area. The process of modelling and simulating the energy system hour by hour enables to identify the synergies among the energy sectors. This is done by creating models using different energy tools, as the ones used in this work. The research work analyses a real case for a possible process of urban regeneration, of former industrial area in a district located in the city of Naples, through retrofit and re-use of existing buildings, the construction of new ones and the implementation of smart infrastructures. The overall goal of this work is to present and evaluate different development configuration of a smart energy district when going from the planning to the design phase. The analysed system is designed for matching the power and thermal flow rate demands of the district considered, including the power demand of electric vehicles charging stations, as well as the energy for space heating and cooling. A technoeconomic analysis of three technical alternatives has been implemented, each one characterized by a different energy mix, allowing to verify the most suitable option between the individual and central heating and cooling supply. The work considers all the legislative constrains related to the introduction of the Renewable Energy Sources, required for the construction of new buildings in Italy.
+Keywords: Renewable energy sources; Energy planning; Smart energy district; Electrical vehicle; Combined heating and power systems; Urban regeneration plans
+
+Saeid Motie, Farshid Keynia, Mohammad Reza Ranjbar, Akbar Maleki,
+Generation expansion planning by considering energy-efficiency programs in a competitive environment,
+International Journal of Electrical Power & Energy Systems,
+Volume 80,
+2016,
+Pages 109-118,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2015.11.107.
+(https://www.sciencedirect.com/science/article/pii/S0142061515005384)
+Abstract: Restructuring of the electricity industry and the development of energy efficiency solutions are the two major developments of the recent power systems. Implementation strategies in the use of energy efficiency can be made by utilizing more energy-efficient equipment or increasing penetration rate of production of new sources of energy at the generating side. These new sources of energy can be renewable sources, especially wind resource and energy storage instruments such as grid-connected electric vehicles. The vehicles can be charged during the low load and discharged during peak load. In this study, wind resources and grid-connected electric vehicles are considered as an approach for energy efficiency strategies in generation expansion planning. But, because of high investment cost, great uncertainty of wind resources’ productivity and uncertainty of their supportive policies no one will invest on them without proper supportive policies in a competitive environment. So support policies for wind resource are also considered. One of the fundamental problems of supportive policies is financial support in a competitive environment. Therefore, as an innovation of the paper, grid-connected electric vehicles is used to solve the problem. In the paper, the impact of these vehicles is considered in a way that they act integrated with wind resources and thus increases the capacity factor of wind resources.
+Keywords: Generation expansion planning; Energy efficiency solution; Wind resources’ supportive policies; Grid-connected electric vehicles
+
+Cleberton Reiz, Jonatas B. Leite, Clara S. Gouveia, Mohammad Sadegh Javadi,
+Protection system planning in distribution networks with microgrids using a bi-level multi-objective and multi-criteria optimization technique,
+Electric Power Systems Research,
+Volume 228,
+2024,
+109966,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2023.109966.
+(https://www.sciencedirect.com/science/article/pii/S0378779623008544)
+Abstract: Microgrids are able to improve several features of power systems, such as energy efficiencies, operating costs and environmental impacts. Nevertheless, microgrids’ protection must work congruently with power distribution protection to safely take all advantages. This research contributes to enable their protection by proposing a bi-level method to simultaneously solve the allocation and coordination problems, where the proposed scheme also includes local protections of distributed energy resources. The uncertainties associated with generation and loads are categorized by the k-means method, as well. The non-dominated sorting genetic algorithm II is employed in the upper-level task to solve the protection and control devices allocation problem with two opposing objectives. In the lower-level task, a genetic algorithm ensures their coordination. Protection devices include reclosers and fuses from the network, and directional relays for the point of common coupling of microgrids, while control devices consist of remote-controlled switches. In contrast to related works, local devices installed at the point of coupling of distributed generation units are considered as well, such as voltage-restrained overcurrent relays and frequency relays. The optimal solution for the decision-maker is achieved by utilizing the compromise programming technique. Results show the importance of solving the allocation and coordination problems simultaneously, achieving up to $25,000 cost savings compared to cases that solve these problems separately. The integrated strategy allows the network operator to select the optimum solution for the protective system and avoid corrective actions afterward. The results also show the viability of the islanding operation depending on the decision maker's criteria.
+Keywords: Power distribution planning; Microgrids; Reliability; Power system protection; Multi-objective programming; Bi-level optimization
+
+Emmanuel Mudaheranwa, Hassan Berkem Sonder, Liana Cipcigan, Carlos E. Ugalde-Loo,
+Estimation of Rwanda's Power System Inertia as Input for Long-term Dynamic Frequency Response Regulation Planning,
+Electric Power Systems Research,
+Volume 207,
+2022,
+107853,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2022.107853.
+(https://www.sciencedirect.com/science/article/pii/S0378779622000839)
+Abstract: ABSTRACT
+Changes in the quota between conventional generation and renewable energy sources constitute major challenges that the modern power systems have to encounter. Conventional power plants are replaced by renewable generation (e.g. wind turbines, photovoltaics) that contribute to the reduction of power system inertia. This may introduce frequency stability issues because frequency is affected by the amount of system inertia, along with the response of controllable frequency reserves and the amount of power imbalance. Therefore, the estimation and analysis of power system inertia and the frequency response assessment is essential to ensure power system stability and security. This paper proposes a novel method to estimates the inertia constant for three different periods in future, namely, 2025, 2035 and 2050 based on the produced future energy scenarios (FES) for Rwandan's power system. In addition, the paper evaluates the frequency response dynamics for each scenario. Results show that the highest progression in renewable energy resources penetration resulted to a larger reduction in the system inertia constant (from 7.2 in control area 1 to 3.83s in control area 3) and the largest frequency drop was observed during the high progression scenario in the year 2050 where the PV and imported power penetration was expected to reach more than 30% of the total installed capacity.
+Keywords: Frequency Control; Future energy scenario; Inertia constant estimation; Power system; Rwanda; Abbreviations; ACE, area control error; FES, future energy scenario; BESS, battery energy storage system; EVs, electric vehicles; ADB, adaptive deadbeat; ISOs, independent system operators; SOF, system operability framework; RoCoF, rate of change of frequency; PSO, particle swarm optimization; GB, Great Britain; LFC, load frequency control; PES, power and energy society; SQP, sequential quadratic program; MFLN, modified functional link net
+
+Qiao Peng, Weilong Liu, Yufeng Shi, Yuanyuan Dai, Kunjie Yu, Byron Graham,
+Multi-objective electricity generation expansion planning towards renewable energy policy objectives under uncertainties,
+Renewable and Sustainable Energy Reviews,
+Volume 197,
+2024,
+114406,
+ISSN 1364-0321,
+https://doi.org/10.1016/j.rser.2024.114406.
+(https://www.sciencedirect.com/science/article/pii/S1364032124001291)
+Abstract: Conventional petrol vehicles emit a substantial quantity of greenhouse gases, leading to increasingly serious global warming problems. The expansion and development of renewable power generation technologies is conducive in promoting the use of electric vehicles, which are more environmentally friendly. This paper proposes a multi-objective power expansion model considering renewable energy policy objectives. The model regards the problem as a multi-period optimisation task, taking the newly installed capacity and the power generation capacity of each power generation technology as decision variables, and simulating the uncertain factors in the planning process using Geometric Brownian Motion and Monte Carlo approaches. The optimisation objective of the model is to minimise expected costs, reduce risk and environmental impacts, and incorporate changing policy objectives into the constraints to meet policy makers’ expectations for renewable energy development. Then, a decentralised target search-based multi-objective evolutionary algorithm is proposed to solve the model. Its effectiveness is verified by a numerical example using real data from the Chinese power system. The experimental results show that the proposed algorithm exhibits improved performance compared with benchmark algorithms and provides high quality and diverse Pareto-optimal solutions to decision makers. Finally, the optimal plans for power expansion and generation mix under different preferences and policy objectives are discussed and corresponding recommendations are made.
+Keywords: Generation expansion planning; Renewable energy; Energy policy targets; Multi-objective optimisation; Evolutionary algorithm
+
+Nathalie Spittler, Brynhildur Davidsdottir, Ehsan Shafiei, Jonathan Leaver, Eyjolfur Ingi Asgeirsson, Hlynur Stefansson,
+The role of geothermal resources in sustainable power system planning in Iceland,
+Renewable Energy,
+Volume 153,
+2020,
+Pages 1081-1090,
+ISSN 0960-1481,
+https://doi.org/10.1016/j.renene.2020.02.046.
+(https://www.sciencedirect.com/science/article/pii/S0960148120302329)
+Abstract: The aim of this paper was to understand the relevance of accounting for geothermal resource dynamics for sustainable energy system planning in Iceland. This included assessing the implications of transition to electric vehicles as a decarbonisation strategy in Iceland. Therefore, the energy and transport system model (UniSyD_IS) was linked to a geothermal resource dynamics model. This allowed to capture the effects of geothermal resource utilization for electricity production on a national energy systems level. A total of 16 different scenarios that vary in the rate of economic growth, conditions for electric vehicles and consideration of geothermal resource dynamics were analysed in relation to production patterns, cost, resource availability and emissions. Incorporating geothermal resource dynamics allows to provide more holistic insights for sustainable energy system planning in Iceland, especially regarding the availability of geothermal resources and production cost.
+Keywords: Geothermal resource dynamics; Sustainability; Energy system modelling; System dynamics; Iceland
+
+Nojood O. Aljehane, Romany F. Mansour,
+Optimal allocation of renewable energy source and charging station for PHEVs,
+Sustainable Energy Technologies and Assessments,
+Volume 49,
+2022,
+101669,
+ISSN 2213-1388,
+https://doi.org/10.1016/j.seta.2021.101669.
+(https://www.sciencedirect.com/science/article/pii/S2213138821006834)
+Abstract: Renewable energy forms have a comparatively less impact on the environment when compared with non-renewable sources. Renewable energies like wind power, biomass, hydropower, solar power, and geothermal energies are preferred for production as they do not run out quickly. Owing to the stochastic nature of renewable energy sources (RES) and Plug-in hybrid electric vehicles (PHEVs) load demand, large-scale penetration of these resources from the power system affects the network performance like reduce power quality, increase power loss, and voltage deviation. These issues can be addressed by the optimum planning depending upon the variables outcome in RES to satisfy the extra demand affected by PHEV charging. At the same time, designing a proper and effective energy management strategy in PHEV can be considered an optimization problem and can be resolved by the use of metaheuristic algorithms. With this motivation, this paper presents a novel deep learning with metaheuristic optimization based allocation of RES and charging stations for PHEVs. The proposed model depends upon model predictive control (MPC) where the actual battery state of charge (SOC) is concerned with real time energy management. Moreover, the black widow optimization (BWO) algorithm is used for the optimal allocation of RES and charging stations. The BWO algorithm derives objective functions using different parameters of the charging stations. In addition, based on the MPC model, deep stacked autoencoder (DSAE) is applied for the prediction of near-future velocity. The experimental results stated that the presented model has resulted in improved efficiency of the proposed model over the other methods.
+Keywords: Renewable energy; Charging stations; PHEVs; Deep learning; Metaheuristics; Model predictive control; State of charge
+
+S. Muhammad Bagher Sadati, Jamal Moshtagh, Miadreza Shafie-khah, João P.S. Catalão,
+Smart distribution system operational scheduling considering electric vehicle parking lot and demand response programs,
+Electric Power Systems Research,
+Volume 160,
+2018,
+Pages 404-418,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2018.02.019.
+(https://www.sciencedirect.com/science/article/pii/S0378779618300622)
+Abstract: Electric vehicle (EV) technology with a vehicle to grid (V2G) property is used in power systems to mitigate greenhouse gas emissions, reduce peak load of the distribution system, provide ancillary service, etc. In addition, demand response (DR) programs as an effective strategy can provide an opportunity for consumers to play a significant role in the planning and operation of a smart distribution company (SDISCO) by reducing or shifting their demand, especially during the on-peak period. In this paper, the optimal operation of a SDISCO is evaluated, including renewable energy resources (RERs) along with EV parking lots (PLs). RER and PL uncertainties and a suitable charging/discharging schedule of EVs are also considered. Furthermore, price-based DR programs and incentive-based DR programs are used for operational scheduling. To achieve this aim, a techno-economic formulation is developed in which the SDISCO acts as the owner of RERs and PLs. Moreover, DR programs are prioritized by using the technique for order preference by similarity to ideal solution method. In addition, a sensitivity analysis is carried out to investigate different factors that affect the operational scheduling of the SDISCO. The proposed model is tested on the IEEE 15-bus distribution system over a 24-h period, and the results prove the effectiveness of the model.
+Keywords: Operational scheduling; Electric vehicle parking lot; Demand response programs; Smart distribution system
+
+Fabian Heymann, Vladimiro Miranda, Filipe Joel Soares, Pablo Duenas, Ignacio Perez Arriaga, Ricardo Prata,
+Orchestrating incentive designs to reduce adverse system-level effects of large-scale EV/PV adoption – The case of Portugal,
+Applied Energy,
+Volume 256,
+2019,
+113931,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2019.113931.
+(https://www.sciencedirect.com/science/article/pii/S0306261919316186)
+Abstract: The adoption of energy transition technologies for residential use is accelerated through incentive designs. The structure of such incentives affects technology adoption patterns, that is, the locations where new technologies are installed and used. These spatial adoption patterns influence network expansion costs and provide indication on potential cross-subsidization between population groups. While until today, most programs have been involuntarily favoring households with high-income and above-average educated population groups, incentive designs are currently under review. This paper presents a spatiotemporal technology adoption model that can predict adoption behavior of residential electric vehicle (EV) chargers and photovoltaic (PV) modules up to a predefined time horizon. A set of EV and PV adoption patterns for nine incentive design combinations are compared in order to assess potential synergies that may arise under orchestrated EV and PV adoption. Effects on adoption asymmetries are evaluated using an Information-Theoretic inequality metric. Results for Continental Portugal show that global network expansion costs can be reduced while minimizing technology adoption asymmetries, if specific incentive designs are combined.
+Keywords: Distribution systems; Incentive designs; Power system planning; Spatial analysis; Technology adoption
+
+Sreten Davidov, Miloš Pantoš,
+Optimization model for charging infrastructure planning with electric power system reliability check,
+Energy,
+Volume 166,
+2019,
+Pages 886-894,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2018.10.150.
+(https://www.sciencedirect.com/science/article/pii/S0360544218321467)
+Abstract: This paper presents a significantly improved optimization model for the planning of the charging infrastructure for electric-drive vehicles, where the optimization objective function is the minimization of overall (installation, maintenance, operation) placement costs of charging stations with regards to a charging technology. The constraints involve the electric power system reliability check, ensuring charging reliability and the required quality of service of the charging infrastructure. In ensuring the charging reliability, at least one candidate location must be selected within the driving range of electric vehicles and suitable charging technologies placed to accommodate the disposable charging times of electric vehicle users for the requested quality of service. The proposed optimization model presents an upgrade of an existing optimization formulation since it includes a power system reliability check based on a DC power flow model. To show the general applicability and significance of the model, a test 10 × 10 grid road network and a standard six-bus test power system are considered. Numeric results illustrate the optimal charging stations placement layout and overall costs placement for different driving ranges and the required quality of service level by including a power system reliability check, to serve both the charging infrastructure investors and electric power system operators.
+Keywords: Power system reliability check; Charging reliability; Charging stations; Electric-drive vehicles; DC power flow model; Quality of service
+
+Ronghui Liu, Feixiang Zhang, Gaiping Sun, Shunfu Lin, Fen Li,
+A PT-DA-Based electric taxi charging load prediction method considering environmental factors,
+International Journal of Electrical Power & Energy Systems,
+Volume 151,
+2023,
+109152,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2023.109152.
+(https://www.sciencedirect.com/science/article/pii/S0142061523002090)
+Abstract: The electric taxis (ETs) charging load is of great importance for the normal and the stable operation of power systems. A prediction model for the ET spatio-temporal charging load is proposed, which considers the drivers’ subjective decision-making and the ET travel patterns. First, an improved Gaussian mixture model with a genetic algorithm is developed based on the real ET data. Besides, a prospect theory based on the Dijkstra algorithm for choosing charging stations is put forward. Then, considering the ambient temperature, a calculation method for the remaining energy in the ET battery is utilized. Based on the refined travel patterns and the Monte Carlo method, the charging load in three scenarios are analyzed, which studies the influence of temperature. ET charging loads of different scales are obtained and the influence of charging load on the typical daily load profile is discussed. The simulation results show that the prediction models can combine the drivers’ psychology with the objective traveling time, and the average error between the real load and the predicted load is less than 1%.
+Keywords: Data processing; Electric vehicles; Gaussian mixture model; Load modeling; Path planning
+
+Avinash Vijay, Nicolas Fouquet, Iain Staffell, Adam Hawkes,
+The value of electricity and reserve services in low carbon electricity systems,
+Applied Energy,
+Volume 201,
+2017,
+Pages 111-123,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2017.05.094.
+(https://www.sciencedirect.com/science/article/pii/S0306261917305986)
+Abstract: Decarbonising electricity systems is essential for mitigating climate change. Future systems will likely incorporate higher penetrations of intermittent renewable and inflexible nuclear power. This will significantly impact on system operations, particularly the requirements for flexibility in terms of reserves and the cost of such services. This paper estimates the interrelated changes in wholesale electricity and reserve prices using two novel methods. Firstly, it simulates the short run marginal cost of generation using a unit commitment model with post-processing to achieve realistic prices. It also introduces a new reserve price model, which mimics actual operation by first calculating the day ahead schedules and then letting deviations from schedule drive reserve prices. The UK is used as a case study to compare these models with traditional methods from the literature. The model gives good agreement with and historic prices in 2015. In a 2035 scenario, increased renewables penetration reduces mean electricity prices, and leads to price spikes due to expensive plants being brought online briefly to cope with net load variations. Contrary to views previously held in literature, a renewable intensive scenario does not lead to a higher reserve price than a fossil fuel intensive scenario. Demand response technology is shown to offer sizeable economic benefits when maintaining system balance. More broadly, this framework can be used to evaluate the economics of providing reserve services by aggregating decentralised energy resources such as heat pumps, micro-CHP and electric vehicles.
+Keywords: Electricity price; Low carbon power systems; Short run marginal cost; Unit commitment; MILP; Optimization
+
+Jin-peng Liu, Teng-xi Zhang, Jiang Zhu, Tian-nan Ma,
+Allocation optimization of electric vehicle charging station (EVCS) considering with charging satisfaction and distributed renewables integration,
+Energy,
+Volume 164,
+2018,
+Pages 560-574,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2018.09.028.
+(https://www.sciencedirect.com/science/article/pii/S0360544218317882)
+Abstract: Under the background of large-scale electric vehicle (EV) development, it is necessary to design and deploy the EVCS more scientific. Among various factors influential to the EVCS allocation, charging satisfaction and distributed renewables integration were mainly considered in this paper. First, with System Dynamics (SD) model, the key factors affecting the EVCS allocation were identified from the conduction mechanism. Then, focusing on the site selection of EVCS from the aspect of user satisfaction, k-means clustering method was used to illustrate the relationship between charging distance and satisfaction degree. On this basis, considering with renewables integration and stable operation of power system, the paper constructed a multi-objective function including voltage fluctuation, load fluctuation and connected capacity of energy storage in EVCS. Third, under the feeder framework of an IEEE 33-node, GA-PSO was employed to determine the best solution of EVCS allocation., i.e. the optimal allocation number of EVCS, the site and capacity of EVCS, and the access nodes of renewables and EVCS. Combing with the analysis results, suggestions from the aspects of technology standard, finance subsidy, land use support and energy management were proposed for accelerating the generalization of EVs and strengthening the supporting infrastructure construction.
+Keywords: Multi-objective optimization; EVCS; Distributed renewables; Charging satisfaction; k-means; GA-PSO
+
+Lijun Geng, Zhigang Lu, Liangce He, Jiangfeng Zhang, Xueping Li, Xiaoqiang Guo,
+Smart charging management system for electric vehicles in coupled transportation and power distribution systems,
+Energy,
+Volume 189,
+2019,
+116275,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2019.116275.
+(https://www.sciencedirect.com/science/article/pii/S036054421931970X)
+Abstract: With the increasing popularity of electric vehicles, the connections between urban transportation and power distribution systems gradually change from independent to tightly coupled. To promote the coordinated operation of the two kind of systems, this paper proposes a smart charging management system considering the elastic response of electric vehicle users to electricity charging price. In this system, a multi-class user traffic equilibrium assignment model with elastic charging demand is formulated to capture link flow distributions of vehicles across the urban transportation network and estimate charging demand of each fast charging station. An alternating current optimal power flow model for power distribution network is also established to calculate optimal charging capacity of each fast charging station and scheduling plan of generators. Combining the above two models, a distributed coordination pricing method is designed based on alternating direction multiplier method, which can obtain a proper electricity charging price signal to better manage electric vehicles. A case study is performed to show the effectiveness of the proposed model and the distributed coordination pricing method.
+Keywords: Distributed coordination pricing method; Electric vehicles; Elastic charging demand; Optimal power flow; Smart charging management system; Traffic equilibrium assignment
+
+Omar J. Guerra, Diego A. Tejada, Gintaras V. Reklaitis,
+An optimization framework for the integrated planning of generation and transmission expansion in interconnected power systems,
+Applied Energy,
+Volume 170,
+2016,
+Pages 1-21,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2016.02.014.
+(https://www.sciencedirect.com/science/article/pii/S0306261916301374)
+Abstract: Energy, and particularly electricity, has played and will continue to play a very important role in the development of human society. Electricity, which is the most flexible and manageable energy form, is currently used in a variety of activities and applications. For instance, electricity is used for heating, cooling, lighting, and for operating electronic appliances and electric vehicles. Nowadays, given the rapid development and commercialization of technologies and devices that rely on electricity, electricity demand is increasing faster than overall primary energy supply. Consequently, the design and planning of power systems is becoming a progressively more important issue in order to provide affordable, reliable and sustainable energy in timely fashion, not only in developed countries but particularly in developing economies where electricity demand is increasing even faster. Power systems are networks of electrical devices, such as power plants, transformers, and transmission lines, used to produce, transmit, and supply electricity. The design and planning of such systems require the selection of generation technologies, along with the capacity, location, and timing of generation and transmission capacity expansions to meet electricity demand over a long-term horizon. This manuscript presents a comprehensive optimization framework for the design and planning of interconnected power systems, including the integration of generation and transmission capacity expansion planning. The proposed framework also considers renewable energies, carbon capture and sequestration (CCS) technologies, demand-side management (DSM), as well as reserve and CO2 emission constraints. The novelty of this framework relies on an integrated assessment of the aforementioned features, which can reveal possible interactions and synergies within the power system. Moreover, the capabilities of the proposed framework are demonstrated using a suite of case studies inspired by a real-world power system, including “business as usual” and “CO2 mitigation policy” scenarios. These case studies illustrated the adaptability and effectiveness of the framework at dealing with typical situations that can arise in designing and planning power systems.
+Keywords: Optimization framework; Integrated design and planning; Generation and transmission expansion; Interconnected power systems; Reserve and emission constraints
+
+Pero Prebeg, Goran Gasparovic, Goran Krajacic, Neven Duic,
+Long-term energy planning of Croatian power system using multi-objective optimization with focus on renewable energy and integration of electric vehicles,
+Applied Energy,
+Volume 184,
+2016,
+Pages 1493-1507,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2016.03.086.
+(https://www.sciencedirect.com/science/article/pii/S0306261916304123)
+Abstract: Due to the stochastic nature and variability of renewable energy sources (RES), it is necessary to integrate still expensive storage capacities into an energy system with a high share of RES and to model appropriate energy market. The study presented here considers all energy carriers, however, only the electricity carrier is modeled in detail, with notion taken for the heating demand that is covered but without proper modeling of storage. A proposed two-level approach with multi-objective optimization on the global level, was used to design a Croatian Energy System (CES), where electric vehicles (EVs) are integrated to serve as battery storage in Vehicle-to-Grid (V2G) mode, for a scenario between 2015 and 2050. In addition, case study includes nine aggregated hydro power plants, one for each river basin in Croatia. Also, case study includes solar and wind power plants modeled for six locations in Croatia: Osijek, Zagreb, Rijeka, Sibenik, Split and Dubrovnik. The resulting Pareto front suggests that with assumed future costs of fuels and technology certain level of conventional energy sources will have to remain in the energy system to take into the account unfavourable weather conditions and to cover heating demand, which also results in significantly lower load factors for those power plants. Also, variants with more RES share have lower total energy system load factor and significantly higher installed capacity.
+Keywords: Renewable energy sources; Electric vehicles; Vehicle to grid; Long-term design of energy system; Multi-objective optimization
+
+L. Yu, Y.P. Li, G.H. Huang, C.J. An,
+A robust flexible-probabilistic programming method for planning municipal energy system with considering peak-electricity price and electric vehicle,
+Energy Conversion and Management,
+Volume 137,
+2017,
+Pages 97-112,
+ISSN 0196-8904,
+https://doi.org/10.1016/j.enconman.2017.01.028.
+(https://www.sciencedirect.com/science/article/pii/S0196890417300286)
+Abstract: Effective electric power systems (EPS) planning with considering electricity price of 24-h time is indispensable in terms of load shifting, pollutant mitigation and energy demand-supply reliability as well as reducing electricity expense of end-users. In this study, a robust flexible probabilistic programming (RFPP) method is developed for planning municipal energy system (MES) with considering peak electricity prices (PEPs) and electric vehicles (EVs), where multiple uncertainties regarded as intervals, probability distributions and flexibilities as well as their combinations can be effectively reflected. The RFPP-MES model is then applied to planning Qingdao’s MES, where electrical load of 24-h time is simulated based on Monte Carlo. Results reveal that: (a) different time intervals lead to changes of energy supply patterns, the energy supply patterns would tend to the transition from self-supporting dominated (i.e. in valley hours) to outsourcing-dominated (i.e. in peak hours); (b) 15.9% of total imported electricity expense would be reduced compared to that without considering PEPs; (c) with considering EVs, the CO2 emissions of Qingdao’s transportation could be reduced directly and the reduction rate would be 2.5%. Results can help decision makers improve energy supply patterns, reduce energy system costs and abate pollutant emissions as well as adjust end-users’ consumptions.
+Keywords: Electric vehicles; Flexible probabilistic programming; Multiple uncertainties; Municipal energy system; Peak electricity price
+
+Zhenyu Yu, Fei Lu, Yu Zou, Xudong Yang,
+Quantifying the real-time energy flexibility of commuter plug-in electric vehicles in an office building considering photovoltaic and load uncertainty,
+Applied Energy,
+Volume 321,
+2022,
+119365,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2022.119365.
+(https://www.sciencedirect.com/science/article/pii/S0306261922007097)
+Abstract: The widespread use of fluctuating renewable electricity has introduced challenges in balancing power systems. This can be alleviated by using flexible resources on the demand side to provide ancillary services at various timescales (e.g., day-ahead planning or real-time operation). However, practitioners lack a unified framework for measuring energy flexibility in the real-time operation frame. This study considers a control structure for clustered commuter plug-in electric vehicles (PEVs) in an office building with both day-ahead scheduling and real-time dispatch and proposes a generic quantification framework for assessing the capability of PEVs to manage the uncertainties of photovoltaic output and inflexible building load. Our evaluation considered the flexibility shortage in terms of power, energy, and control strategy, and the Monte Carlo method was used for probabilistic analysis. We conducted a sensitivity analysis to identify the key factors determining real-time flexibility. The results suggest that 1.5–2 times the number of PEVs is required to meet the defined level of real-time flexibility rather than planning flexibility. Possible conflicts in flexibility enhancement at different timescales and directions were observed under various day-ahead scheduling strategies; prediction information can be used to mitigate conflicts in scheduling strategies and improve the overall control performance.
+Keywords: Flexibility evaluation; Electric vehicle; Demand response; Uncertainty modeling; Day-ahead scheduling; Real-time dispatch
+
+José Villar, Enrique Salas, Fco. Alberto Campos,
+Combined Penetration of Wind and Solar Generation with Plug-in Electric Vehicles,
+Energy Procedia,
+Volume 106,
+2016,
+Pages 59-72,
+ISSN 1876-6102,
+https://doi.org/10.1016/j.egypro.2016.12.105.
+(https://www.sciencedirect.com/science/article/pii/S1876610216316630)
+Abstract: Combining large penetration of wind and solar generation with Plug-in Electric Vehicles (PEVs) seems a promising solution for energy cost saving and emissions reduction. PEVs connected to the grid with smart charging strategies can be an effective way to integrate non-dispatchable renewable generation, smoothing the load curve, contributing to the system stability by providing regulation services, and moving unhealthy emissions away from city centers. This paper analyzes the combined penetration of PEVs, and wind and solar generation using a Unit Commitment model for the Spanish power system, providing some insight on how the penetration of these technologies affects relevant variables such as energy and reserve, thermal plants behavior (such as starts-up and shut-downs, technological energy share, generation costs or emissions) and systems costs. Results show that PEV increase total demand, but its optimal charging smooths the net demand (to be supplied by thermal units) and the final electricity prices. In addition, solar generation penetration leads to a larger net demand with more variability but with lower production costs than wind generation penetration, due to their different hourly profiles. Finally neither solar nor wind generation penetrations are totally profitable for the system with the assumptions made, since their investments costs do not compensate the production cost decrement, but grid parity is almost reached for both technologies.
+Keywords: Electric vehicle; wind and solar power integration; emissions; unit commitment ;
+
+Rafael Zárate-Miñano, Alberto Flores Burgos, Miguel Carrión,
+Analysis of different modeling approaches for integration studies of plug-in electric vehicles,
+International Journal of Electrical Power & Energy Systems,
+Volume 114,
+2020,
+105398,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2019.105398.
+(https://www.sciencedirect.com/science/article/pii/S0142061519304879)
+Abstract: This paper presents four different optimal power flow formulations designed to find the maximum number of plug-in electric vehicles that can be simultaneously charging for a given power system operating condition. The modeling approach to represent the coincident charge of PEVs is based on the modeling philosophy of homotopy methods. The quantitative and qualitative characteristics of the solutions that each model attains are analyzed and compared. For that, the developed models are simulated in the IEEE RTS-96 benchmark system. These analyses provide insights into the limitations and strengths of each model. The paper concludes with suggestions on the practical application of the models in tasks related to both planning and operation of power systems.
+Keywords: Optimal power flow; Homotopy methods; Simultaneous charge of PEVs
+
+Mohammadhadi Rouhani, Mohammad Mohammadi, Marco Aiello,
+Soft clustering based probabilistic power flow with correlated inter temporal events,
+Electric Power Systems Research,
+Volume 204,
+2022,
+107677,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2021.107677.
+(https://www.sciencedirect.com/science/article/pii/S0378779621006581)
+Abstract: There is a growing demand to deploy renewable energy sources (RES) and plug-in electric vehicle (PEV) charging station (EVCS) in distribution networks. This, however, will change power grid landscapes and potentially impose uncertainties in short and long term grid planning. The solution to quantify randomness of intermittent events is to implement probabilistic power flow (PPF) analysis. The computation of PPF due to myriad sources of unknown uncertainties is very expensive. This computation analysis becomes more complex when inter-period temporal-spatial correlation and multivariate uncertainties are considered. This paper addresses the issue by resorting to a novel hybrid nonparametric algorithm for short-term PPF analysis in radial distribution networks. The proposed algorithm deals with probabilistic nonlinear loads, unit generators including PV panels, Wind farms, and EVCS charging pattern. Temporal correlation characterized by memory coefficient is used to model inter-event temporal correlation (IETC) over multiple time steps. Detailed uncertainty modeling of PEVs driving and their queues at EVCSs are included. The proposed method is superior over other existing numerical methods as it accounts for the multivariate inter temporal uncertainty events of RES and PEVs charging. Simulation results in a spatio-temporally correlated IEEE 34 node radial distribution system revealed that using IETC coefficients leads to improved prediction accuracy with average error less than 2.5% and improves the computation burden. The proposed method is applied to IEEE 123 node to test the performance of our proposed method. A comparative analysis is done with other well-known analytical/numerical methods. The PPF Computation time of our proposed method is shown to be faster than other methods when IETC is implemented. The results show insensitivity of our proposed method to the size of the system.
+Keywords: Probabilistic power flow; Distribution networks; Soft clustering method; Plug-in electric vehicles; Inter-event time correlation
+
+Shaolun Xu, Zheng Yan, Donghan Feng, Xiaobo Zhao,
+Decentralized charging control strategy of the electric vehicle aggregator based on augmented Lagrangian method,
+International Journal of Electrical Power & Energy Systems,
+Volume 104,
+2019,
+Pages 673-679,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2018.07.024.
+(https://www.sciencedirect.com/science/article/pii/S014206151831041X)
+Abstract: Uncoordinated charging of large-scale electric vehicles can affect the safe and economic operation of distribution power system. As an intermediary between power grid and individual electric vehicle, electric vehicle aggregator can play an important role in the coordination and management of electric vehicle charging. In this paper, we develop a decentralized EV charging control strategy of the electric vehicle aggregator for scheduling the flexible charging demand of plug-in electric vehicles in residential distribution networks. First, the centralized charging control model of the electric vehicle aggregator aiming at the maximization of its revenue under the background of time of use price mechanism is established, meanwhile meeting individual charging requirements and satisfying distribution network constraints. Then a decentralized charging control strategy of the electric vehicle aggregator based on the augmented Lagrangian method and the alternating direction multiplier method is proposed. The electric vehicles can decide their charging plan locally with the decentralized strategy, which can eliminate the problem of high communication cost, low computing efficiency and privacy protection caused by the centralized charging control model in practical application. The effectiveness of the proposed strategy is evaluated with a representative distribution network model.
+Keywords: Electric vehicle aggregator; Decentralized charging control strategy; Augmented Lagrangian method; Alternating direction multiplier method
+
+Saeed Zeynali, Naghi Rostami, M.R Feyzi,
+Multi-objective optimal short-term planning of renewable distributed generations and capacitor banks in power system considering different uncertainties including plug-in electric vehicles,
+International Journal of Electrical Power & Energy Systems,
+Volume 119,
+2020,
+105885,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2020.105885.
+(https://www.sciencedirect.com/science/article/pii/S0142061519330005)
+Abstract: The increasing penetration of solar distributed generations (SDGs) and wind distributed generations (WDGs) together with plug-in electric vehicles (PEVs) will lead to a promising amount of reduction in greenhouse gas emissions. Nevertheless, they bring about adversities such as uncertainty in production-load sides, augmented power loss, and voltage instability in the power system, which should be carefully addressed to increase the reliability. In this concern, this paper proposes a multi-objective optimization methodology for sizing and siting of SDGs, WDGs, and capacitor banks (CBs) in the power system considering uncertainties stemmed from PEVs load demand, solar irradiance, wind speed, and the conventional load. The understudy objectives are the voltage stability index, green-house gas emissions, and the total cost. An unconventional point estimate method (PEM) is used to handle the related uncertainties, and chance-constrained programming method is deployed to deal with smooth constraints. The corresponding probability distribution functions of output variables are estimated by the maximum entropy method. Furthermore, robustness analysis is made by Monte Carlo simulation (MCS). The proposed methodology is applied to a typical radial distribution network. The results show that the presence of PEV’s significantly increases the load demand, which results in voltage collapse in the distribution system without the presence of distributed generations. However, the proposed probabilistic method ensures the safe operation of the distribution system with the optimal allocation of renewable distributed generations and CBs. Moreover, the results of deterministic and probabilistic cases are compared under different penetration levels of PEVs. The best tradeoff solution of the Pareto front is selected by the fuzzy satisfying method.
+Keywords: Renewable distributed generation; Point estimate method; Sizing and siting; Multi-objective optimization; Chance constrained programming
+
+M. McPherson, E. Rhodes, L. Stanislaw, R. Arjmand, M. Saffari, R. Xu, C. Hoicka, M. Esfahlani,
+Modeling the transition to a zero emission energy system: A cross-sectoral review of building, transportation, and electricity system models in Canada,
+Energy Reports,
+Volume 9,
+2023,
+Pages 4380-4400,
+ISSN 2352-4847,
+https://doi.org/10.1016/j.egyr.2023.02.090.
+(https://www.sciencedirect.com/science/article/pii/S2352484723002330)
+Abstract: Models have long been effective tools in the planning and policy making of energy systems, but low-carbon electrification—decarbonizing generation supply while expanding electrical demand—poses new challenges for the modeling community. At its core, electrification relies on integrating insights that span the supply and demand side of power systems, resolving operational characteristics and long-term climate change, and the integration of previously independent engineered systems. However, our modeling landscape consists of a suite of models that focus on distinct sectors (power, buildings, transport) and spatial–temporal scales (municipal, provincial, federal). This paper probes whether the existing suite of energy system models, which span sectors, disciplines, and jurisdictions, is up to the task of charting net-zero pathways, specifically in the Canadian context. To do so, we analyze an inventory of energy system models that are being used in practice using a recently assembled model database. Next, we supplement our analysis with a web-based search and literature review. For each model category, we describe the key modeling approaches, strengths and weaknesses, and typical ways and areas in which these models are applied. We find that by focusing on a specific scale and sector, these models by their very definition, omit out-of-scope interactions leaving critical information gaps. Many of the most imperative areas for future research straddle multiple sectors or multiple scales—electric vehicle charging, carbon policy coordination, regional electricity trading, to name a few. Future research should focus on identifying ways in which different models could be used together to produce policy-related conclusions that are as detailed but more holistic than conclusions that can be gleaned from an individual model.
+Keywords: Energy systems integration; Energy system modeling; Electrification; Decarbonization pathways
+
+Mohannad Alhazmi, Bohan Zhang, Thomas Tongxin Li, Huizu Lin, Chenlu Yang, Xi Cheng,
+Resilient energy transition in wildfire-prone regions: A multi-stage investment optimization,
+International Journal of Electrical Power & Energy Systems,
+Volume 172,
+2025,
+111060,
+ISSN 0142-0615,
+https://doi.org/10.1016/j.ijepes.2025.111060.
+(https://www.sciencedirect.com/science/article/pii/S0142061525006088)
+Abstract: The increasing frequency and severity of wildfires and heatwaves in California pose significant threats to energy infrastructure, necessitating a resilient and sustainable energy transition. This paper proposes a multi-stage investment optimization framework that integrates wildfire-induced disruptions, heatwave-driven demand surges, and carbon-neutral transition pathways into long-term power system planning. The framework employs a Distributionally Robust Optimization (DRO) approach to account for uncertainties in wildfire spread, transmission failures, and climate variability, ensuring robustness against worst-case scenarios. A GIS-driven wildfire risk assessment is incorporated to prioritize infrastructure reinforcements, microgrid deployment, and renewable integration in high-risk regions. The model balances three key objectives: (i) minimizing infrastructure investment costs, (ii) maximizing grid resilience through fire-adaptive expansion planning, and (iii) ensuring a carbon-neutral transition in alignment with climate policies. A case study of Los Angeles County during the 2025 Eaton Fire demonstrates the model’s effectiveness in enhancing power grid resilience and optimizing energy investment strategies under extreme climate conditions. The results highlight significant reductions in carbon emissions, improved microgrid reliability, and accelerated post-wildfire grid recovery, showcasing the model’s applicability for future wildfire-prone energy systems.
+Keywords: Wildfire-resilient power systems; Energy transition; Multi-stage investment optimization; Distributionally robust optimization; GIS-based wildfire risk assessment; Microgrid deployment; California grid resilience
+
+Kayode E. Adetunji, Ivan W. Hofsajer, Adnan M. Abu-Mahfouz, Ling Cheng,
+An optimization planning framework for allocating multiple distributed energy resources and electric vehicle charging stations in distribution networks,
+Applied Energy,
+Volume 322,
+2022,
+119513,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2022.119513.
+(https://www.sciencedirect.com/science/article/pii/S0306261922008339)
+Abstract: In developing a sustainable and efficient power systems network while reducing carbon footprint, renewable energy (RE)-based Distribution Generation (DG) units are highly recommended. Furthermore, Battery Energy Storage Systems (BESS) and other passive electronic units are adopted to improve grid performance and mitigate the effects of high variability from RE power. Hence, planning frameworks are developed to optimally allocate these units to distribution networks. However, current planning mechanisms do not consider the relative effect of different allocated units in planning frameworks. To bridge this gap, this paper presents a novel comprehensive planning framework for allocating DG units, BESS units, and Electric Vehicle Charging Station (EVCS) facilities in a distribution network while optimizing its technical, economic, and environmental benefits. The proposed framework uses a recombination technique to generate more solutions by dynamically updating the DG and BESS units’ locations in one iteration. A Reinforcement Learning (RL)-based algorithm is introduced to coordinate EV charging that suggests the optimal EVCS location in relation to other units’ locations. To cope with the complexity ensuing from searching a larger solution space, a multi-stage, hybrid optimization scheme is developed to produce optimal allocation variables. A category-based multiobjective framework is further developed to simultaneously optimize many objective functions — power loss, voltage stability, voltage deviation, installation and operation cost, and emission cost. Through numerical simulations on the IEEE 33- and 118-bus distribution network, it is shown that the proposed optimization scheme achieves higher metric values than the adopted benchmark optimization schemes. A validation process was also carried out on the proposed multiobjective optimization approach, comparing it with other approaches. Using the Spacing metric, the proposed approach proves to be efficient, depicting a good spread of Pareto optimal solutions.
+Keywords: Battery energy storage systems; Distributed generation; Electric vehicles; Electric vehicle charging station; Hybrid optimization algorithm; Multiobjective optimization; Pareto optimal solutions; Reinforcement learning
+
+Ingeborg Graabak, Qiuwei Wu, Leif Warland, Zhaoxi Liu,
+Optimal planning of the Nordic transmission system with 100% electric vehicle penetration of passenger cars by 2050,
+Energy,
+Volume 107,
+2016,
+Pages 648-660,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2016.04.060.
+(https://www.sciencedirect.com/science/article/pii/S036054421630473X)
+Abstract: This paper presents the optimal planning of the Nordic backbone transmission system with 100% electric vehicle penetration of passenger cars by 2050. Electric vehicles will play an important role in the future energy systems and can reduce the greenhouse gas emission from the transport sector. However, the electric vehicles will increase the electricity consumption and might induce congestions in the transmission systems. In order to deal with the electricity consumption increase from the electric vehicle integration into the power system and maximize the social welfare, the optimal investments of the Nordic transmission system are studied. Case studies were conducted using the market simulation model EMPS (Efi's multi-area power market simulator) and two electric vehicle charging scenarios: a spot price based scenario and a dumb charging scenario. The electric vehicle charging power is assumed to be 3.68 kW with 1 phase 16 A. The complete electrification of the private passenger fleet increases the yearly power demand in the Nordic region with ca 7.5%. The profitable increases in transmission capacities are highest for dumb charging, but are very low for both dumb and spot price based charging compared to a Reference case.
+Keywords: Dumb or spot price based charging; Electric vehicle; Optimal investment scenario; Transmission system planning
+
+Philipp Hanemann, Thomas Bruckner,
+Effects of electric vehicles on the spot market price,
+Energy,
+Volume 162,
+2018,
+Pages 255-266,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2018.07.180.
+(https://www.sciencedirect.com/science/article/pii/S0360544218314774)
+Abstract: In this paper we investigate the impact of different electric vehicle charging strategies on spot market power prices for the case of Germany. We also provide a detailed analysis of uncertainties resulting from vehicle-to-grid (V2G), the most flexible charging option. Since the integration of renewable energy sources requires flexibility, we compare V2G with two competing systemic flexibility options provided by highly flexible power plants and resulting from EU high voltage grid expansion, respectively. In all cases we find that V2G has by far the most significant impact on prices, mainly smoothing them, while reducing, for example, the surplus electricity from renewable energy sources. V2G also has the strongest influence on prices compared to the systemic flexibility options of more flexible power plants or network expansion. In addition, we show that it is important to take the structural difference between working days and weekends into account. Especially on weekend days, which are usually characterized by low power demand, V2G raises power prices the most. Finally, the price effects are accompanied by a saturation effect, which is already noticeable in the German case at two million vehicles.
+Keywords: Electricity spot market; Electric vehicles; Power system; Unit commitment; Vehicle-to-grid; Demand-side management
+
+Jinhua Zhang, Jiaxi Wang, Jie Yan, Peng Cheng,
+Research on multi-time scale Volt/VAR optimization in active distribution networks based on NSDBO and MPC approach,
+Electric Power Systems Research,
+Volume 238,
+2025,
+111141,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2024.111141.
+(https://www.sciencedirect.com/science/article/pii/S0378779624010277)
+Abstract: To explore the potential of all-round and multiangle voltage and reactive power control to reduce losses in a new power system with a high proportion of distributed resources connected to a distribution network, this study proposes a Volt/VAR optimization method for distribution networks using a nondominated sorting dung beetle optimizer (NSDBO) and model predictive control (MPC). According to the characteristics of the various adjustable resources in the network, they are divided into day-ahead and intraday optimizations. The optimization process in the day-ahead stage uses the NSDBO to create a discrete equipment scheduling plan. The optimization process in the intraday stage combines the discrete equipment scheduling plan with the MPC to create the scheduling plan for photovoltaics, energy storage, and vehicle charging stations. Two-stage optimization scheduling is achieved with the lowest discrete equipment regulation cost and minimization of network loss and node voltage deviation penalty cost as the optimization goal. The feasibility of this method for coordinating various resources in the network, processing discrete and continuous variables, and coping with the volatility and uncertainty of high-proportion distributed resources is verified through case analysis. The effectiveness of this method in improving the security and economy of distribution networks is demonstrated. The superiority of the solution speed and quality is also confirmed.
+Keywords: Active distribution networks; Voltage reactive power optimization; Multiple time scales; Distributed power sources; Electric vehicles
+
+Afshin Pahlavanhoseini, Mohammad Sadegh Sepasian,
+Optimal planning of PEV fast charging stations using an auction-based method,
+Journal of Cleaner Production,
+Volume 246,
+2020,
+118999,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2019.118999.
+(https://www.sciencedirect.com/science/article/pii/S0959652619338697)
+Abstract: In recent years, the plug-in electric vehicles (PEVs) have attracted a lot of attention. For integration of PEVs, proper planning of PEV charging stations is necessary. Location and size of fast charging stations (FCSs) are very important for distribution companies (DISCOs) and FCS investors. In this paper, FCS planning problem is modeled as a mixed-integer nonlinear programming (MINLP) from DISCO point of view. The proposed method is based on the dynamic auction, and a co-evolutionary genetic algorithm is used to solve the problem. FCS investors bid DISCO for energy in different locations. The DISCO, as the auctioneer, determines the location and size of FCSs based on the bids received at each location so that its profit is maximized. In the proposed model, capacitor and feeder installations are considered to satisfy the bus voltage limit and the apparent power capacity constraint of feeders, respectively. The effectiveness of the proposed method is demonstrated by numerical results. Our work shows that the proposed method can be used as a proper tool for fast FCS optimal planning in the presence of private investors of FCSs. Furthermore, in the new environment of power systems, dynamic auctions can be utilized in FCS planning. In addition, the capacitor and feeder installations can be effectively used for getting a better value of DISCO objective function.
+Keywords: Distribution company; Plug-in electric vehicle; Fast charging station; Auction; Co-evolutionary genetic algorithm
+
+Meng Yuan, Jakob Zinck Thellufsen, Henrik Lund, Yongtu Liang,
+The electrification of transportation in energy transition,
+Energy,
+Volume 236,
+2021,
+121564,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2021.121564.
+(https://www.sciencedirect.com/science/article/pii/S0360544221018120)
+Abstract: The electrification of transportation is currently seen as one of the key strategies in the sustainable energy transition. This work aims to identify the role of the electrification of transportation from a perspective of the mid-to-long term. The main focus is on the coupling of the deployment of electric vehicles (EV) and power system decarbonization. The paper combines a detailed bottom-up model for the road transportation sector, which features a detailed classification of vehicle types, with the EnergyPLAN tool, a cross-sector and cross-region energy system model of future scenarios consisting of different planning strategies and vehicle charging modes. A case study of the Beijing-Tianjin-Hebei region shows that without increasing renewable power capacity, a 100 % EV penetration can create energy savings and reduce carbon dioxide emissions by a minimum of 11 % in 2050. Moreover, considering the foreseeable technological progress in the battery, a 25 % reduction in the EV initial investment is feasible in all the investigated future scenarios.
+Keywords: Transportation electrification; Electric vehicles; EnergyPLAN; Energy systems analysis; Energy transition; Interregional energy collaboration
+
+Hamid Karimi, Shahram Jadid, Saeed Hasanzadeh,
+A stochastic tri-stage energy management for multi-energy systems considering electrical, thermal, and ice energy storage systems,
+Journal of Energy Storage,
+Volume 55, Part A,
+2022,
+105393,
+ISSN 2352-152X,
+https://doi.org/10.1016/j.est.2022.105393.
+(https://www.sciencedirect.com/science/article/pii/S2352152X2201386X)
+Abstract: This paper proposes a tri-stage energy management framework to determine the best operation planning of an energy hub system (EHS) considering economic aspects, reliability, and thermal and electrical generation flexibility. The first stage of the suggested framework focuses on the economic operation planning of EHS. The operator of EHS handles the uncertainty of market prices and renewable resources to provide the primary scheduling from the economic point of view. In the second stage, the primary scheduling of EHS has been modified to enhance the thermal and electrical flexibility in order to cover the existing uncertainties. Increasing system flexibility is achieved by increasing system reservation, but maximizing flexibility should not lead to a lack of energy for consumers. Therefore, the third stage evaluates the operation scheduling of EHS from the electrical and thermal energy not supplied perspective. Also, the plug-in electric vehicle, electric storage, thermal storage, ice storage, electrical and thermal demand response programs are integrated into EHS to enhance the system flexibility. The proposed model is tested on a standard case stud and the simulation result shows that the proposed tri-stage framework improves the generation flexibility, and thermal load shedding by 46.74 and 58.85 %, respectively.
+Keywords: Energy hub system; Power system flexibility; Tri-stage optimization; Energy storage systems; Uncertainty modeling
+
+Dongmin Hao, Xiaojun Ren, Amin Salih Mohammed,
+Optimal Design of Electric Vehicle Parking Lot based on Energy Management Considering Hydrogen Storage System and Demand Side Management,
+Journal of Energy Storage,
+Volume 42,
+2021,
+103045,
+ISSN 2352-152X,
+https://doi.org/10.1016/j.est.2021.103045.
+(https://www.sciencedirect.com/science/article/pii/S2352152X21007544)
+Abstract: Basically, a system is associated with uncertainty and it is the existence of such a factor which results in an uncertain planning and designing. In today's power system, these conditions are mostly reasoned through the uncertain performance of a number of parameters e.g. price, so the use of uncertainty modeling becomes necessary. In the present work, an optimization model, based on virus search colony, is used for the optimal performance of intelligent parking of electric vehicles in uncertainty situations caused by the price of the upstream grid in the demand response (DRP) program. It has been used to reduce the daily cost of performance by changing various parts of the load between peak and off-peak intervals. Virus Colony Search (VCS) method is a method based on the random-based population, which is also based on specific behaviors of the virus. Chaos theory has been used to develop this algorithm and improve local and global search. Moreover, the proposed multi-objective algorithm is a model based on non-dominated sorting model, variable detection, memory-based strategy selection and fuzzy theory to select the best Pareto from the answer set. Besides, it has a powerful function in solving the above problem. Regarding the mentioned techniques, the possibility of being in local points is reduced and the speed of convergence to the final response is increased. The proposed method was investigated on a sample system including, intelligent parking, local units, thermal and renewable plants in the proposed upstream grid price uncertainty technique. The obtained results show the efficiency of the suggested model. According to the compared results, under the demand response program, the average value of the smart parking cost is reduced about 4%.
+Keywords: Smart Parking; Uncertainty Modeling; Virus Colony Search Optimization Method; Demand Side Management
+
+Jorge Sousa, João Lagarto, Miguel Fonseca,
+The role of storage and flexibility in the energy transition: Substitution effect of resources with application to the Portuguese electricity system,
+Renewable Energy,
+Volume 228,
+2024,
+120694,
+ISSN 0960-1481,
+https://doi.org/10.1016/j.renene.2024.120694.
+(https://www.sciencedirect.com/science/article/pii/S0960148124007626)
+Abstract: The energy transition, characterized by the decarbonization of energy consumption through electrification, needs a massive integration of non-dispatchable renewable electricity generation, along with storage systems and demand flexibility to manage the variability and uncertainty inherent of these sources. Within this framework, understanding the dynamic interaction among system resources becomes crucial to assess the adequacy of future electricity systems performance. This study aims to evaluate the extent to which new electricity resources will complement or substitute each other in integrating non-dispatchable electricity generation. Using the SWHORD simulator, we investigated the Portuguese power system's for the 2030 horizon, evaluating the coherence of targets outlined in the National Energy and Climate Plan (NECP 2030) while considering interactions among demand-side flexibility and storage options. A significant substitution effect is identified among demand resources, including electric vehicles, hydrogen production, hydro-pumping storage, and battery storage systems. Furthermore, we confirm the consistency of targets set in the Portuguese NECP 2030 and highlight their strong interdependence, particularly concerning renewable and hydrogen targets.
+Keywords: Demand flexibility; Energy storage; Energy systems simulation; Renewable energy; Substitution effect
+
+Mujahed Al-Dhaifallah, Mohamed M. Refaat, Zuhair Alaas, Shady H.E. Abdel Aleem, Elwy E. El-kholy, Ziad M. Ali,
+Multi-objectives transmission expansion planning considering energy storage systems and high penetration of renewables and electric vehicles under uncertain conditions,
+Energy Reports,
+Volume 11,
+2024,
+Pages 4143-4164,
+ISSN 2352-4847,
+https://doi.org/10.1016/j.egyr.2024.03.060.
+(https://www.sciencedirect.com/science/article/pii/S2352484724002051)
+Abstract: Transmission expansion planning (TEP) integrating electric vehicles (EVs) and renewable energy sources (RESs) is pivotal for the transition toward cleaner and more sustainable energy systems. One of the biggest challenges in TEP with EVs and RESs is the uncertainty inherent in their behaviors. Managing this uncertainty is critical for ensuring the grid's reliability and resilience, and for facilitating a seamless transition to EVs. A potent method for addressing uncertainties in power systems is the application of a scenario-based approach. However, the efficiency of this approach is contingent upon an increase in the number of representative scenarios, which, in turn, escalates computational time, making solving the TEP problem a crucial task. To tackle these challenges, this paper proposes a multi-objective resilience model for TEP, to advance towards more sustainable energy systems. The model seeks to strike a balance between economic, environmental, and technical considerations by minimizing planning costs, carbon dioxide emissions, and enhancing the voltage profile. Furthermore, the paper proposes a cascaded intelligent strategy to handle uncertainties and reduce computational complexity by reducing the number of representative scenarios without compromising system reliability. The adaptive neuro-inference system is designed to manage long-term uncertainties, while two fuzzy systems are developed to address short-term uncertainties. The problem is formulated as a complex non-linear multi-objective optimization problem. To address this, a hybrid approach combining the mountain gazelle optimizer and the multi-objective salp swarm optimizer is developed to solve the problem. The efficacy of the proposed method is validated on two separate test systems, demonstrating its superiority in maintaining system reliability while reducing computing time by at least 92 % in comparison with the considered traditional methods. The results also highlight the superior performance of the proposed hybrid algorithm compared to existing meta-heuristic algorithms in solving the TEP.
+Keywords: Transmission expansion planning; Electric vehicles; Renewable energy sources; Fuzzy systems; Hybrid optimization algorithms
+
+Douglas J. Arent, Peter Green, Zia Abdullah, Teresa Barnes, Sage Bauer, Andrey Bernstein, Derek Berry, Joe Berry, Tony Burrell, Birdie Carpenter, Jaquelin Cochran, Randy Cortright, Maria Curry-Nkansah, Paul Denholm, Vahan Gevorian, Michael Himmel, Bill Livingood, Matt Keyser, Jennifer King, Ben Kroposki, Trieu Mai, Mark Mehos, Matteo Muratori, Sreekant Narumanchi, Bryan Pivovar, Patty Romero-Lankao, Mark Ruth, Greg Stark, Craig Turchi,
+Challenges and opportunities in decarbonizing the U.S. energy system,
+Renewable and Sustainable Energy Reviews,
+Volume 169,
+2022,
+112939,
+ISSN 1364-0321,
+https://doi.org/10.1016/j.rser.2022.112939.
+(https://www.sciencedirect.com/science/article/pii/S1364032122008206)
+Abstract: The United States has pledged to develop a 100% carbon-free electric power system by 2035 and a net-zero-emissions economy by 2050. While important advancements have been made in the scale, performance, and economics of clean energy technologies, meeting the nation's ambitious goals will not only require their deployment at scale, but also additional innovation and effective integration of different solutions. Technological developments across the broad suite of low-carbon energy solutions are advancing rapidly, with ongoing innovations in renewable electricity generation, industrial processes, and energy-saving technologies and services, including LED lighting, induction heating, electric vehicles, energy storage solutions, and mobility as a service, plus smart devices, controls, and more efficient and smart buildings. Combining renewable electricity with biotic and abiotic pathways to produce chemicals, fuels, and materials promises to deliver new solutions. Grid-interactive buildings and communities, integrating transportation infrastructure and vehicles, are likely to be significant components of any zero-carbon energy strategy. Low-carbon industrial manufacturing will also make strong contributions to a net-zero economy. While the technical prospects appear promising, variations in the state of infrastructure, jurisdictional and social equity, pollution, economic and socio-cultural constraints, energy resource availability, and supply chain dynamics found in different locations present a range of challenges and demand customized solutions. This paper provides a critical review and offers new insights into the technical, infrastructure, analytic, political, and economic challenges faced in translating the nation's ambitious net-zero-emissions goals into feasible and reliable implementation action plans.
+Keywords: Clean energy; Decarbonization; Net-zero; Power generation; Solar; Wind; Electric vehicles; Integrated systems; Circular economy; Energy justice
+
+Kang Miao Tan, Vigna K. Ramachandaramurthy, Jia Ying Yong,
+Optimal vehicle to grid planning and scheduling using double layer multi-objective algorithm,
+Energy,
+Volume 112,
+2016,
+Pages 1060-1073,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2016.07.008.
+(https://www.sciencedirect.com/science/article/pii/S036054421630929X)
+Abstract: Vehicle to grid is a revolutionary technology that allows energy exchange between electric vehicles and power grid for mutual advantages. The implementation of appropriate vehicle to grid energy management system can maximize the potential of electric vehicles to provide grid ancillary services. This paper proposes an optimal vehicle to grid planning and scheduling by utilizing a novel double layer multi-objective algorithm. This optimization algorithm utilizes the grid-connected electric vehicles to perform peak load shaving and load levelling services to minimize the power grid load variance in the first layer optimization. Meanwhile, the second layer optimization minimizes the reactive power compensation for grid voltage regulation and therefore, optimizes the vehicle to grid charger's capacitor sizing. The second layer optimization algorithm utilizes an approximated formula from the simulation of a vehicle to grid charger. The proposed vehicle to grid optimization algorithm considers various power grid and electric vehicle constraints for practicality purpose. With the real time implementation of the proposed algorithm, the optimization results show that the power load curve is effectively followed the preset constant target loading, while the grid voltage is successfully regulated to the predetermined voltage level with minimal amount of reactive power supply from the optimal charger's capacitor.
+Keywords: Battery charger; Bidirectional power flow; Electric vehicle; Optimization; Vehicle to grid; Voltage regulation
+
+Musa Terkes, Zafer Öztürk, Alpaslan Demirci, Said Mirza Tercan,
+Optimal sizing and feasibility analysis of second-life battery energy storage systems for community microgrids considering carbon reduction,
+Journal of Cleaner Production,
+Volume 421,
+2023,
+138507,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2023.138507.
+(https://www.sciencedirect.com/science/article/pii/S0959652623026653)
+Abstract: The rapid development of distributed renewable energy has made energy storage essential for efficient operation. However, energy storage is challenging for prosumers due to high investment costs and long payback periods. The second use of batteries has been evaluated as an alternative energy storage after the first service in electric vehicles with the remaining 80% capacity. This study investigates the feasibility of using secondary-use batteries as shared storage for prosumers. Financial and technical break-even points regarding the gradually increasing carbon limit on the way to 100% renewable have been determined. The proposed method's performance has been verified by conducting sensitivity analyses regarding various environmental and economic characteristics. The self-consumption rates have been achieved by 65.9% in Spain (Madrid) and 49.9% in England (London), and 48.5% in Türkiye (Antalya) without incentive. Increasing the carbon tax by 1 $/t for high and low energy tariffs can reduce carbon emissions by 181.3 and 1607 kg/yr. The optimum sizes remain until the carbon tax threshold is 60 $/tCO2eq for high energy tariffs. After 60 $/tCO2eq, it is tended to enlarge the hybrid power system. However, severe carbon emission restriction for zero carbon targets prevents the optimum system design since the carbon reduction cost increases to 232.7–304.8 $/kg. This study encourages investors and prosumers to plan the shared energy storage system sensibly and guides governments to develop realistic incentive mechanisms to implement second-life batteries effectively.
+Keywords: Energy storage; Hybrid energy system; Photovoltaics; Optimization; Second-life battery
+
+Raziye Aghapour, Mohammad Sadegh Sepasian, Hamidreza Arasteh, Vahid Vahidinasab, João P.S. Catalão,
+Probabilistic planning of electric vehicles charging stations in an integrated electricity-transport system,
+Electric Power Systems Research,
+Volume 189,
+2020,
+106698,
+ISSN 0378-7796,
+https://doi.org/10.1016/j.epsr.2020.106698.
+(https://www.sciencedirect.com/science/article/pii/S0378779620305010)
+Abstract: One of the most important aspects of the development of Electric Vehicles (EVs) is the optimal sizing and allocation of charging stations. Due to the interactions between the electricity and transportation systems, the key features of these systems (such as traffic network characteristics, charging demands and power system constraints) should be taken into account for the optimal planning. This paper addressed the optimal sizing and allocation of the fast-charging stations in a distribution network. The traffic flow of EVs is modeled using the User Equilibrium-based Traffic Assignment Model (UETAM). Moreover, a stochastic framework is developed based on the Queuing Theory (QT) to model the load levels (EVs’ charging demand). The objective function of the problem is to minimize the annual investment cost, as well as the energy losses that are optimized through chance-constrained programming. The probabilistic aspects of the proposed problem are modeled by using the point estimation method and Gram-Charlier expansion. Furthermore, the probabilistic dominance criteria are employed in order to compare the uncertain alternatives. Finally, the simulation results are provided for both the distribution and traffic systems to illustrate the performance of the proposed problem.
+Keywords: Fast charging station; Queuing theory; Traffic assignment; Chance-constrained programming; Point estimation; Probabilistic dominance criteria
+
+Marcos Tostado-Véliz, Ahmad Rezaee Jordehi, Seyed Amir Mansouri, Francisco Jurado,
+A two-stage IGDT-stochastic model for optimal scheduling of energy communities with intelligent parking lots,
+Energy,
+Volume 263, Part D,
+2023,
+126018,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2022.126018.
+(https://www.sciencedirect.com/science/article/pii/S0360544222029048)
+Abstract: The proliferation of green mobility will bring multiple benefits to the society; however, it may be counterproductive for power systems if its integration is not properly planned. In this context, Intelligent Parking Lots have emerged as a valuable paradigm for integration of electric vehicles into energy systems. This framework consists of a set of vehicles that are managed as a whole and makes possible to exploit them as large storage facilities through their vehicle-to-grid capability. This particular feature may be significantly advantageous for energy communities since they can exploit parking lots as collective storage systems. In this paper, a two-stage optimal scheduling framework has been developed for optimal scheduling of energy communities. The proposal uses a stochastic representation of the state-of-charge of the lots with the end of accounting for random behaviour of uncertainties. On the other hand, the uncertainty of the upstream energy market is dealt with Information Gap Decision theory, resulting in an original hybridization that allows to adopt a risk-averse strategy by the operator. The optimization problem is formulated as a Mixed-Integer Linear programming model that can be efficiently solved by average solvers. A case study is performed to validate the new proposal and analyse the role of Intelligent Parking Lots in energy communities. The results evidence the advantages that electric vehicles may bring to communities if they are optimally exploited, highlighting their capability to enhance the efficiency and economy of the system.
+Keywords: Electric vehicle; Intelligent parking lot; Energy community; Energy storage
