@@ -1,12 +1,33 @@
-## Planning scripts
+## Pipeline de scripts para análise de planejamento
 
-- `merge_dedup.py`: merge multiple exports (CSV and BibTeX), normalize fields, and deduplicate records to produce `data/planning/merged_dedup.csv`. Uses a stable key to drop repeats and keeps the first occurrence.
-- `prioritize.py`: loads the deduped file, keeps records with `year >= 2015`, computes a simple priority score/bucket (`priority_score`, `priority_bucket`), and writes `data/planning/merged_prioritized.csv` so downstream analyses focus on recent papers first.
-- `abstract_stats.py`: tags each paper with problem/method keywords using `title + abstract` text. Saves counts and cross-tabs to `results/planning/`: `problem_counts.csv`, `method_counts.csv`, `problem_method_matrix.csv`, and `term_trend_year.csv` (per-term counts by year). Prints a short console summary after writing the files.
-- `pub_trend.py`: counts publications per year from the prioritized (or dedup) CSV, then saves `year_counts.csv` plus bar plots `year_counts.png` and `year_counts.pdf` in `results/planning/`. The plots use `.plot/plotconfig.py` if present (Gulliver font); otherwise fall back to matplotlib defaults. Layout is tightened for print-ready export.
-- `topic_map.py`: builds the 2D “bubble” topic map. Steps: (1) concatenate `title + abstract`; (2) embed with `all-MiniLM-L6-v2`; (3) cluster embeddings with KMeans (numeric cluster IDs); (4) project to 2D with UMAP; (5) write `results/planning/topic_map.csv` containing all original columns plus `x`, `y`, and `cluster`; (6) extract top 3 frequent terms per cluster via `CountVectorizer` and save `topic_map_cluster_summary.csv` with counts and labels; (7) save annotated plots `topic_map.png` and `topic_map.pdf`. Plot labels show `cluster number: top_term_1, top_term_2, top_term_3` for quick interpretation.
-- `extra_maps.py`: complementary views. Generates (a) t-SNE map as an alternate 2D projection of the same embeddings + KMeans clusters; (b) cluster share over time (stacked area) to see how topic prevalence evolves by year; (c) problem × method heatmap using the same keyword lists from `abstract_stats.py`. Outputs go to `results/planning/`: `tsne_map.csv/png/pdf`, `cluster_share_by_year.csv/png/pdf`, and `problem_method_heatmap.csv/png/pdf`. Also saves `tsne_cluster_terms.csv` with top terms per cluster for reference.
+A ordem recomendada de execução dos scripts é:
 
-Notes
-- Default input for all scripts is `data/planning/merged_prioritized.csv`; they automatically fall back to `merged_dedup.csv` if the prioritized file is missing.
-- Gulliver font is optional via `.plot/plotconfig.py`; if absent, the scripts keep matplotlib defaults.
+1. **1-merge_raw_planning.py**
+   - Une todos os dados brutos (CSV/BibTeX) de Scopus, IEEE, ScienceDirect, Web of Science, etc. em um único CSV padronizado: `data/planning/merged_raw_planning.csv`.
+
+2. **2-dedup_best_filled.py**
+   - Remove duplicatas (por DOI ou título+ano), mantendo o registro mais completo de cada grupo. Saída: `data/planning/merged_raw_planning_dedup.csv`.
+
+3. **3-prioritize.py**
+   - Filtra por ano (>=2015), calcula score de prioridade e bucketiza (`high`, `medium`, `low`). Saída: `data/planning/merged_prioritized.csv`.
+
+4. **4-possible_duplicates.py** (opcional)
+   - Gera um relatório de possíveis duplicatas remanescentes por título normalizado e ano. Saída: `results/planning/possible_duplicates.csv`.
+
+5. **5-abstract_stats.py**
+   - Taggeia cada artigo com problemas/métodos (por palavras-chave em título+abstract). Salva contagens e matrizes em `results/planning/`.
+
+6. **6-topic_map.py**
+   - Cria o mapa de tópicos 2D (UMAP+KMeans) e salva clusters, coordenadas e resumos em `results/planning/`.
+
+7. **7-extra_maps.py**
+   - Gera mapas complementares: t-SNE, evolução temporal dos clusters, heatmap problema×método.
+
+8. **8-pub_trend.py**
+   - Conta publicações por ano e gera gráficos de tendência em `results/planning/`.
+
+---
+
+- Todos os scripts usam como entrada padrão o arquivo mais "processado" disponível (`merged_prioritized.csv` > `merged_raw_planning_dedup.csv` > `merged_raw_planning.csv`).
+- O fluxo recomendado é rodar do 1 ao 8, mas scripts 4, 5, 6, 7 e 8 podem ser executados independentemente após o passo 3.
+- O README anterior e instruções específicas de cada script estão nos cabeçalhos dos próprios arquivos.

@@ -1,0 +1,43 @@
+I've collected the short ScienceDirect queries I used and left a few notes so I (or anyone else) can reproduce the searches later.
+
+How I run these searches
+- Copy one line (either the COMPACT or the STRICT version) and paste it into ScienceDirect's Title/Abstract/Keywords field.
+- Run each method as a separate search — I run one query at a time and export the results for that method.
+- Save each export under `data/operation/sciencedirect/` with a clear, descriptive filename (for example: `sciencedirect_mpc_2025-12-13.csv`).
+- I typically filter to years 2015–2025 and restrict results to Article/Journal to keep the set relevant.
+
+Below are the queries I used for each method.
+
+1) MPC (Model Predictive Control)
+
+COMPACT:
+("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR "smart charging") AND ("real-time" OR dispatch OR online) AND (MPC OR "model predictive") AND (coordinat* OR "joint optimization") AND NOT (planning OR siting OR sizing)
+
+STRICT (up to 8 terms):
+EV AND BESS AND charging AND realtime AND MPC AND coordination AND NOT planning
+
+2) Rule-based / Heuristic
+
+COMPACT:
+("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR "smart charging") AND ("real-time" OR dispatch) AND (rule-based OR heuristic) AND (coordinat* OR co-optim*) AND NOT (planning OR siting OR sizing)
+
+STRICT:
+EV AND BESS AND charging AND realtime AND heuristic AND coordination AND NOT planning
+
+3) Supervised Machine Learning (operation)
+
+COMPACT:
+("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR "smart charging") AND ("real-time" OR dispatch) AND ("machine learning" OR neural OR regression) AND (control OR scheduling OR dispatch) AND NOT (planning OR siting OR sizing)
+
+STRICT:
+EV AND BESS AND charging AND realtime AND ML AND control AND NOT planning
+
+4) Reinforcement Learning / DRL
+
+COMPACT:
+("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR "smart charging") AND ("real-time" OR dispatch) AND (RL OR "reinforcement learning" OR DRL) AND (coordinat* OR "joint optimization") AND NOT (planning OR siting OR sizing)
+
+STRICT:
+EV AND BESS AND charging AND realtime AND RL AND coordination AND NOT planning
+
+If you want, I can create four separate files `query_mpc.txt`, `query_rule.txt`, `query_supervised.txt`, `query_rl.txt` with the variant you prefer (compact or strict). Tell me which variant and I'll write the files.

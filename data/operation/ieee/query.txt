@@ -1,0 +1,57 @@
+I prepared and saved the queries I used for IEEE Xplore. Below are the full (more synonyms) and the short variants I used when I needed to simplify the metadata search.
+
+Notes: I filtered content type = Journals, Years = 2015-2025 and Subject area = Power & Energy / Transportation.
+
+1) MPC — full query
+
+("electric vehicle" OR EV OR PEV OR BEV OR "plug-in")
+AND (charg* OR "smart charging" OR "managed charging" OR "charging scheduling" OR EVSE OR "charging station" OR "charging infrastructure")
+AND ("battery energy storage" OR BESS OR ESS OR "energy storage system" OR "stationary battery" OR "grid battery")
+AND ("real-time" OR realtime OR online OR "rolling horizon" OR "receding horizon" OR dispatch OR "energy management" OR control OR scheduling OR "operational")
+AND ("model predictive control" OR MPC OR "receding horizon control" OR "rolling horizon")
+AND (coordinat* OR "joint optimization" OR co-optim* OR "integrated" OR "multi-objective" OR "coupled")
+AND NOT (planning OR siting OR placement OR sizing OR "capacity planning" OR expansion OR investment OR layout OR "infrastructure planning")
+
+Short version:
+("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR charging) AND ("real-time" OR dispatch) AND (MPC OR "model predictive")
+
+2) Rule-based — full query
+
+("electric vehicle" OR EV OR PEV OR BEV OR "plug-in")
+AND (charg* OR "smart charging" OR "managed charging" OR "charging scheduling" OR EVSE OR "charging station" OR "charging infrastructure")
+AND ("battery energy storage" OR BESS OR ESS OR "energy storage system" OR "stationary battery" OR "grid battery")
+AND ("real-time" OR realtime OR online OR "rolling horizon" OR "receding horizon" OR dispatch OR "energy management" OR control OR scheduling OR "operational")
+AND ("rule-based" OR heuristic* OR "priority-based" OR "threshold-based" OR "decision tree" OR "if-then" OR "state machine")
+AND (coordinat* OR "joint optimization" OR co-optim* OR "integrated" OR "multi-objective" OR "coupled")
+AND NOT (planning OR siting OR placement OR sizing OR "capacity planning" OR expansion OR investment OR layout OR "infrastructure planning")
+
+Short version:
+("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR charging) AND ("real-time" OR dispatch) AND (rule-based OR heuristic)
+
+3) Supervised ML — full query
+
+("electric vehicle" OR EV OR PEV OR BEV OR "plug-in")
+AND (charg* OR "smart charging" OR "managed charging" OR "charging scheduling" OR EVSE OR "charging station" OR "charging infrastructure")
+AND ("battery energy storage" OR BESS OR ESS OR "energy storage system" OR "stationary battery" OR "grid battery")
+AND ("real-time" OR realtime OR online OR "rolling horizon" OR "receding horizon" OR dispatch OR "energy management" OR control OR scheduling OR "operational")
+AND (("supervised learning" OR "machine learning" OR neural network OR LSTM OR "random forest" OR regression) AND (control OR scheduling OR dispatch OR policy))
+AND (coordinat* OR "joint optimization" OR co-optim* OR "integrated" OR "multi-objective" OR "coupled")
+AND NOT (planning OR siting OR placement OR sizing OR "capacity planning" OR expansion OR investment OR layout OR "infrastructure planning")
+
+Short version:
+("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR charging) AND ("real-time" OR dispatch) AND ("machine learning" OR neural OR regression)
+
+4) Reinforcement Learning — full query
+
+("electric vehicle" OR EV OR PEV OR BEV OR "plug-in")
+AND (charg* OR "smart charging" OR "managed charging" OR "charging scheduling" OR EVSE OR "charging station" OR "charging infrastructure")
+AND ("battery energy storage" OR BESS OR ESS OR "energy storage system" OR "stationary battery" OR "grid battery")
+AND ("real-time" OR realtime OR online OR "rolling horizon" OR "receding horizon" OR dispatch OR "energy management" OR control OR scheduling OR "operational")
+AND ("reinforcement learning" OR "deep reinforcement learning" OR RL OR DRL OR DQN OR DDPG OR PPO OR SAC OR "actor-critic")
+AND (coordinat* OR "joint optimization" OR co-optim* OR "integrated" OR "multi-objective" OR "coupled")
+AND NOT (planning OR siting OR placement OR sizing OR "capacity planning" OR expansion OR investment OR layout OR "infrastructure planning")
+
+Short version:
+("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR charging) AND ("real-time" OR dispatch) AND (RL OR "reinforcement learning" OR DRL)
+
+I exported the results into `data/operation/ieee/` with descriptive filenames.

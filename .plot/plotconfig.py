@@ -2,7 +2,8 @@ from matplotlib import font_manager
 import matplotlib.pyplot as plt
 import os
 
-font_path = 'Gulliver.otf'
+# Caminho absoluto para a fonte
+font_path = os.path.join(os.path.dirname(__file__), 'Gulliver.otf')
 if os.path.exists(font_path):
     font_manager.fontManager.addfont(font_path)
     prop = font_manager.FontProperties(fname=font_path)

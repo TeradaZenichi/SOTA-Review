@@ -1,0 +1,42 @@
+I prepared four queries for Scopus, one for each method family. Each query includes a full/expressive version (with more synonyms) and a short version for when simplification is necessary.
+
+1) MPC — what I prepared
+
+TITLE-ABS-KEY(
+  ("electric vehicle" OR EV OR PEV OR BEV OR "plug-in")
+  AND (charg* OR "smart charging" OR "managed charging" OR "charging scheduling" OR EVSE OR "charging station" OR "charging infrastructure")
+  AND ("battery energy storage" OR BESS OR ESS OR "energy storage system" OR "stationary battery" OR "grid battery")
+  AND ("real-time" OR realtime OR online OR "rolling horizon" OR "receding horizon" OR dispatch OR "energy management" OR control OR scheduling OR "operational")
+  AND ("model predictive control" OR MPC OR "receding horizon control" OR "rolling horizon")
+  AND (coordinat* OR "joint optimization" OR co-optim* OR "integrated" OR "multi-objective" OR "coupled")
+)
+AND NOT TITLE-ABS-KEY(planning OR siting OR placement OR sizing OR "capacity planning" OR expansion OR investment OR layout OR "infrastructure planning")
+
+```plaintext
+I consolidated the separate method queries into a single combined Scopus query that targets MPC, rule-based heuristics, supervised ML and reinforcement learning in operation (real-time control/dispatch) contexts.
+
+Full combined query (Scopus — `TITLE-ABS-KEY`):
+
+TITLE-ABS-KEY(
+  ("electric vehicle" OR EV OR PEV OR BEV OR "plug-in")
+  AND (charg* OR "smart charging" OR "managed charging" OR "charging scheduling" OR EVSE OR "charging station" OR "charging infrastructure")
+  AND ("battery energy storage" OR BESS OR ESS OR "energy storage system" OR "stationary battery" OR "grid battery")
+  AND ("real-time" OR realtime OR online OR "rolling horizon" OR "receding horizon" OR dispatch OR "energy management" OR control OR scheduling OR "operational")
+  AND (
+    "model predictive control" OR MPC OR "receding horizon control" OR "rolling horizon"
+    OR "rule-based" OR heuristic* OR "priority-based" OR "threshold-based" OR "decision tree"
+    OR "supervised learning" OR "machine learning" OR neural OR LSTM OR "random forest" OR regression
+    OR "reinforcement learning" OR "deep reinforcement learning" OR RL OR DRL OR DQN OR DDPG OR PPO OR SAC OR "actor-critic"
+  )
+  AND (coordinat* OR "joint optimization" OR co-optim* OR "integrated" OR "multi-objective" OR "coupled")
+)
+AND NOT TITLE-ABS-KEY(planning OR siting OR placement OR sizing OR "capacity planning" OR expansion OR investment OR layout OR "infrastructure planning")
+
+Short version (compact):
+TITLE-ABS-KEY(("electric vehicle" OR EV) AND (BESS OR "battery energy storage") AND (charg* OR charging) AND ("real-time" OR dispatch) AND (MPC OR rule-based OR "machine learning" OR RL))
+
+Notes
+- Use this single query when you want one search that covers all method families; otherwise use the short form to simplify.
+- Save exports in `data/operation/scopus/` with descriptive filenames (for example: `scopus_allmethods_YYYY-MM-DD.csv`).
+``` 
+)
